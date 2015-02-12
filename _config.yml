@@ -1,0 +1,33 @@
+# Dependencies
+kramdown:
+  input: GFM
+#markdown: redcarpet
+
+highlighter: pygments
+
+#:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            HC MID
+tagline: 'Devoted to the study of incompletely published primary sources'
+description:      'Home page of the Holy Cross Manuscripts, Inscriptions and Documents Club'
+url:
+baseurl: 'http://HCMID.github.io'
+
+author:
+  name:           'Neel Smith'
+
+paginate:         5
+
+
+# Links:
+links:
+  - title: The Homer Multitext project
+    url: http://www.homermultitext.org
+    external: true
+     
+     
+

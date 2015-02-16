@@ -4,5 +4,5 @@ layout: page
 ---
 
 - [Constitution](constitution)
-- Club officers' manual
+- [Club officers' manual](http://hcmid.github.io/officersmanual/)
 

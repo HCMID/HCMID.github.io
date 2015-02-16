@@ -27,9 +27,7 @@ paginate:         5
 links:
   - title: Administrative information
     url: /admin
-  - title: The Homer Multitext project
-    url: http://www.homermultitext.org
-    external: true
+
      
      
 

@@ -11,6 +11,7 @@ The name of this organization shall be the Manuscripts, Inscriptions and Documen
 
 ## Article II: Statement of Purpose
  The aim of the Manuscripts, Inscriptions and Documents Club shall be to further the study of these academic fields: paleography, codicology, epigraphy, as well as the study of languages. We strive for undergraduate inclusion in work normally reserved for the graduate level. 
+
 ### Section One: Group objectives
 
 Group objectives shall be as follows:
@@ -38,7 +39,9 @@ Group objectives shall be as follows:
 2. Student must attend plenary meetings (see Article VI, Section).
 3. Student must adhere to security procedures in the St. Isidore of Seville Lab (see 	Article III, Section Three).
 
-### Section Three: Rights and privileges of members ##
+### Section Three: Rights and privileges of members ###
+
+
 
 1. A student in Manuscripts, Inscriptions and Documents Club may be granted access to Classics departmental resources related to the study of manuscripts and 	other documents of interest: technology (access to the St. Isidore of Seville 	computer lab, Fenwick fourth floor), events, meetings, and travel opportunities.
 
@@ -59,6 +62,7 @@ Group objectives shall be as follows:
 
 To serve as organizers of meetings, lab time in St. Isidore of Seville computer lab, and as a reference point for questions/inquiries concerning members' currents projects within the club.
  
+
 ### Section Two: Titles of Executive Board ###
 
 
@@ -77,8 +81,9 @@ Vice President
 - In the event of the President's incapacitation, Vice President assumes responsibilities of the President.
 
 
+
 Treasurer
-:
+: 
 - Handle, record, and dispense funds of Manuscripts, Inscriptions and Documents Club as needed.     	
 
 Electronic Communications Board
@@ -88,6 +93,7 @@ Electronic Communications Board
 - Handle attendance policy.
 
  
+
 ### Section Three: Duties of Executive Board ###
 
 
@@ -144,8 +150,9 @@ Any member of Manuscripts, Inscriptions and Documents Club is eligible to run fo
 
 
 1. Members of the Executive Board shall serve for a term of one (1) year after that 	election or until the next annual election, whichever falls first. 
-2. There is no limit on the number of times a member may be elected to a particular office; however, (s)he must be re-elected for each subsequent year that 	(s)he serves in that office.
+2. There is no limit on the number of times a member may be elected to a particular office; however, (s)he must be re-elected for each subsequent year that (s)he serves in that office.
  
+
 ## Article VI: Meeting and Quorum
 
 Section One: Number of meetings to be held during academic year

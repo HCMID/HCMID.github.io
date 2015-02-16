@@ -27,6 +27,9 @@ paginate:         5
 links:
   - title: Administrative information
     url: /admin
+  - title: Twitter feed
+    url: https://twitter.com/hcmid
+    external: true
 
      
      

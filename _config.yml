@@ -25,12 +25,13 @@ paginate:         5
 
 # Links:
 links:
-  - title: Administrative information
-    url: /admin
+  - title: Hall of Fame
+    url: /hof
   - title: Twitter feed
     url: https://twitter.com/hcmid
     external: true
-
+  - title: Administrative information
+    url: /admin
      
      
 

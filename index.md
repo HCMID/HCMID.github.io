@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
@@ -20,10 +20,10 @@ Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwi
 
 - [conference papers,  publications, and funded research](hof) from members of HC MID Club.
 
-## Talks and presentations ##
+## Special events ##
 
 
-We also occasionally host [presentations from others at HC MID](hosted), and participate in the program of Digital Classicist New England.
+We occasionally host [presentations from others](hosted), and participate in the program of Digital Classicist New England.
 
 
 ## Mission Statement ##

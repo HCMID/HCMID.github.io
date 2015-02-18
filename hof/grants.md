@@ -1,5 +1,5 @@
 ---
-title: "Hall of Fame: summer research funding"
+title: "MID Hall of Fame: funded summer research"
 layout: page
 ---
 

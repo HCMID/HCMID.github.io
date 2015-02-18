@@ -18,7 +18,7 @@ Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwi
 
 ## Hall of Fame ##
 
-- [grants, conference papers, and publications](hof) from members of HC MID Club.
+- [conference papers,  publications, and funded research](hof) from members of HC MID Club.
 
 ## Talks and presentations ##
 

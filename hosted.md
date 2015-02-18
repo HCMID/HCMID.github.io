@@ -1,5 +1,5 @@
 ---
-title: Lectures and 
+title: Guest lectures and events
 layout: page
 ---
 

@@ -27,6 +27,8 @@ paginate:         5
 links:
   - title: Hall of Fame
     url: /hof
+  - title: Hosted events
+    url: /hosted
   - title: Twitter feed
     url: https://twitter.com/hcmid
     external: true

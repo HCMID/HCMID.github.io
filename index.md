@@ -6,15 +6,25 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
 
-## Projects in 2014-2015 ##
+## Current projects in 2014-2015 ##
+
+
 
 - Several teams are contributing to Homer Multitext project
 - Manuscripts of Jerome's *Chronicles*
 - Mathematical diagrams in Greek and Latin manuscripts
 
+
+
 ## Hall of Fame ##
 
 - [grants, conference papers, and publications](hof) from members of HC MID Club.
+
+## Talks and presentations ##
+
+
+We also occasionally host [presentations from others at HC MID](hosted), and participate in the program of Digital Classicist New England.
+
 
 ## Mission Statement ##
 
@@ -22,9 +32,9 @@ Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwi
 >The aim of the Manuscripts, Inscriptions and Documents Club shall be to further the study of these academic fields: paleography, codicology, epigraphy, as well as the study of languages. We strive for undergraduate inclusion in work normally reserved for the graduate level.
 
 
-### HCMID on twitter ###
+## Keeping up with HC MID ###
 
+Follow us from
 
-
-
-Follow [HCMID on twitter](https://twitter.com/hcmid).
+- our [atom feed](atom.xml)
+- [twitter](https://twitter.com/hcmid)

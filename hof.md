@@ -21,6 +21,7 @@ layout: page
 - May 2014, Christine Roughan '14, "Digital diplomatic editions of mathematical diagrams" (conference "Digital Access to Textual Cultural Heritage," Madrid, Spain).
 -  March 2014, keynote address at NEH Advanced Institute (Tufts University): Becky Musgrave '14, Neil Curran '14, Alex Simrell '16, and Chris Ryan '16 (Homer Multitext project), Stephanie Neville '17, Charlie Schuhfrieder '17, and Nick Jalbert '16 and (Jerome's Chronicles), and Megan Whitacre '14 (Latin epigraphy)
 - March 2014, Becky Musgrave '14, Neil Curran '14, Alex Simrell '16, Chris Ryan '16,  "Editing the Homer Multitext" at Boston Unversity conference "Shaping Homer" 
+- Feb. 2013, Matt Angiolillo '13, Tom Arralde '13, Nik Churik '15, Brian Clark '13,  Stephanie Lindeborg '13 ,  Becky Musgrave  '14, "[Research on manuscripts of the Homer Multitext project](../pdfs/DC-feb-2013.pdf)", Tufts University "works in progress" in the [Digital Premodernist/Digital Classicist](../dcne) series.
 - December 2012, Matt Angiollilo, Thomas Arralde, Melissa Browne, Nikolas Churik, Brian Clark, Stephanie Lindeborg, and Rebecca Musgrave, "The Homer Multitext project" (abstract, paper and video published in the *Sunoikisis Undergraduate Research Journal*, available [online here](http://wp.chs.harvard.edu/surs/e-journal/volume-1-issue-1/)
 - April 2012, Thomas Arralde, Stephanie Lindeborg and Christine Roughan, Council on Undergraduate "Posters on Capitol Hill" (Washington, D.C.), "Editing the oldest manuscript of the *Iliad*"
 
@@ -28,8 +29,31 @@ layout: page
 
 Each year since 2012,  members of HC MID have successfully competed for summer research funding.
 
-(Individual listings TBA.)
+### 2014 ###
 
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:  Charlie Shufreider, Melody Wauke
+
+
+
+### 2013 ###
+
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Christopher Ryan, Alex Simrell
+
+
+### 2012 ###
+
+- Holy Cross 9-week research program:
+    - Neil Curran, Stephanie Lindeborg, "Digitally Editing the *Iliad*: the Escorial Υ.1.1 Manuscript"  (advisors M. Ebbott and N. Smith)
+    -  M. Angiolillo, T. Arralde, M. Whitacre, "The Most Important List in Classical Literature: *Iliad* Book 2 in the
+Venetus A Manuscript"  (advisors M. Ebbott, and N. Smith)
+    - C. Roughan, "Recapturing a Lost Text: The Archimedes Palimpsest" (advisor N. Smith) 
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Nikolas Churik, Brian Clark, Becky Musgrave
+    
+
+### 2011
+
+
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Melissa Browne, Frank Hartel, Kathleen O'Connor
 
 ## Holy Cross Academic Conference
 

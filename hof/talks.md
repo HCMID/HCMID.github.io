@@ -1,14 +1,8 @@
 ---
-title: MID Hall of Fame
+title: "Hall of Fame: conference presentations"
 layout: page
 ---
 
-## Coming up ##
-
-- May 2015, Stephanie Lindeborg '13 and Neel Smith, “Designing Digital Projects: Foundational Principles and Practical Solutions from the Homer Multitext project and Holy Cross Manuscripts Club” (Toronto, Canadian Classical Association)
-- March 2015, Stephanie Neville, Stephen Merola and Claude Hanley,  "Representing the Scribal Tradition in Diplomatic Editions of Manuscripts of Jerome’s *Chronicle*", [Classical Association of New England annual meeting](http://caneweb.org/new/wp-content/uploads/109thCANEAnnualMeetingProgram-web.docx1.pdf).
-
-## Talks and presentations ##
 
 - January 2015,  Nikolas Churik, Brian Clark, Stephanie Lindeborg and Neel Smith, “Composing living scholarship: applying automated acceptance tests to scholarly writing” (conference "Scholarship in Software, Software as Scholarship", Universität Bern). See [conference program](https://infoclio.ch/sites/default/files/eventdocs/Full_programme150124.pdf).
 - December 2014,  Andrew Boudon, Nikolas Churik, Brian Clark, Mary Ebbott, Stephanie Lindeborg, Christopher Ryan,  Alexander Simrell, and Neel Smith, "Digital Access and the Practicality of Citizen Scholarship" (workshop on "Greek and Latin in an Age of Open Data").  See [abstract](http://www.dh.uni-leipzig.de/wo/workshop-december-2014/greek-and-latin-in-an-age-of-open-data-schedule/andrew-boudon-et-al-digital-access/).
@@ -25,41 +19,3 @@ layout: page
 - December 2012, Matt Angiollilo, Thomas Arralde, Melissa Browne, Nikolas Churik, Brian Clark, Stephanie Lindeborg, and Rebecca Musgrave, "The Homer Multitext project" (abstract, paper and video published in the *Sunoikisis Undergraduate Research Journal*, available [online here](http://wp.chs.harvard.edu/surs/e-journal/volume-1-issue-1/)
 - April 2012, Thomas Arralde, Stephanie Lindeborg and Christine Roughan, Council on Undergraduate "Posters on Capitol Hill" (Washington, D.C.), "Editing the oldest manuscript of the *Iliad*"
 
-## Funded summer research ##
-
-Each year since 2012,  members of HC MID have successfully competed for summer research funding.
-
-### 2014 ###
-
-- Center for Hellenic Studies summer seminar on the Homer Multitext project:  Charlie Shufreider, Melody Wauke
-
-
-
-### 2013 ###
-
-- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Christopher Ryan, Alex Simrell
-
-
-### 2012 ###
-
-- Holy Cross 9-week research program:
-    - Neil Curran, Stephanie Lindeborg, "Digitally Editing the *Iliad*: the Escorial Υ.1.1 Manuscript"  (advisors M. Ebbott and N. Smith)
-    -  M. Angiolillo, T. Arralde, M. Whitacre, "The Most Important List in Classical Literature: *Iliad* Book 2 in the
-Venetus A Manuscript"  (advisors M. Ebbott, and N. Smith)
-    - C. Roughan, "Recapturing a Lost Text: The Archimedes Palimpsest" (advisor N. Smith) 
-- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Nikolas Churik, Brian Clark, Becky Musgrave
-    
-
-### 2011
-
-
-- Center for Hellenic Studies summer seminar on the Homer Multitext project:   Melissa Browne, Frank Hartel, Kathleen O'Connor
-
-## Holy Cross Academic Conference
-
-Since the MID Club was founded in 2012, we have co-sponsored a session with the Classics Department at the annual spring Academic Conference.  See the program listings for:
-
-
-- [2014](http://www.holycross.edu/academics/research/ACProgram2014.pdf)
-- [2013](http://www.holycross.edu/academics/research/ACProgram2013.pdf)
-- [2012](http://news.holycross.edu/wp-content/uploads/2012/04/ACProgram2012.pdf)

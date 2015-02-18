@@ -29,6 +29,8 @@ links:
     url: /hof
   - title: Hosted events
     url: /hosted
+  - title: Tech help
+    url: /tech
   - title: Twitter feed
     url: https://twitter.com/hcmid
     external: true

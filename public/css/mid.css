@@ -11,3 +11,18 @@
     
 
 }
+
+ul.postslist {
+    padding: 0;
+}
+
+.postslist li {
+
+    list-style-type: none;
+    border-bottom: solid 1px silver;
+    margin-bottom: 1.5em;
+}
+
+.datelabel {
+    font-weight: bold;
+}

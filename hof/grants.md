@@ -19,6 +19,7 @@ The MID Club grew out of summer research at Holy Cross going back to 2010.  Ever
 
 - Holy Cross 9-week research program:
     - D. Sokolowski, N. Churik, B. Clark, "A New Approach to an Ancient Epic: Creating a Digital Diplomatic Edition of *Iliad* 9"  (advisors M. Ebbott and N. Smith)
+    - Andrew Boudon and Rebecca, "An Unpublished Manuscript of Archimedes" (advisor N. Smith)
     - C. Bannan, "Editing the Athenian Tribute Quota Lists: The Most Important Records of Athenian Imperialism" (advisor N. Smith)
 - Center for Hellenic Studies summer seminar on the Homer Multitext project:   Christopher Ryan, Alex Simrell
 

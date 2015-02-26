@@ -6,6 +6,16 @@ layout: page
 
 Since the MID Club was formally recognized as a RSO in 2012, we have co-sponsored a session with the Classics Department at the college's annual spring Academic Conference.  See the program listings for:
 
+- 2015:  proposed program
+    - Claude Hanley, Steven Merola, and Stephanie Neville, "Tracing the Scribal Tradition in Manuscripts of Jerome's *Chronicle*"
+    - Porter Weeks and Blake Werab, "Investigation of the Table of Chords in Manuscripts of Ptolemy's *Almagest*"
+    - Mary Patrice Hamilton, "The Purpose and Construction of Diagrams in Proclus' *Commentary on Euclid, Book One*"
+    -  Rebecca Finnigan, " An investigation into the mathematical diagrams of Euclid using primary sources"
+    - Michael Kelley and Corey Scannell, "The Only Extant Manuscript Copy of Apollonius Sophistes' *Homeric Lexicon"
+    - Charlie Schufrieder, Alex Simrell,  and Melody Wauke, "Observations in *Iliad* Books 14 and 15 in the Venetus A Manuscript"
+    - Andrew Boudon, "Changes in Ancient Greek Divinity after the Lamian War"
+    - Brian Clark, "Retellings of the *Iliad*"
+    - Nikolas Churik, "A Study of Iliadic Paraphrase"
 - [2014](http://www.holycross.edu/academics/research/ACProgram2014.pdf)
     - Anne Salloom ’14 Defining excellence in Tacitus’ Histories
     - Megan Whitacre ’14 Latin Epigraphy in the Classroom

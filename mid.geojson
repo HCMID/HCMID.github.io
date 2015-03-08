@@ -45,7 +45,24 @@
         "label": "May 2014, Leipzig University Center for Digital Technology: Rebecca Finnigan ‘15, “An unpublished manuscript of Archimedes” and Christine Bannan ‘14, “Reassessing the Athenian Tribute Lists”"
 
       }
+    },
+
+    {
+      "geometry": {
+        "coordinates": [
+          -85.614208,
+          42.283305
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "May, 2014, Christine Roughan and Neel Smith, “Constructing, Testing and Analyzing a Semantic Graph of Manuscript Features” (International Congress of Medieval Studies, Western Michigan University)."
+
+      }
     }
+
+
 
 
     

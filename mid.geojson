@@ -155,7 +155,23 @@
       "properties": {
         "label": "April 2012, Thomas Arralde, Stephanie Lindeborg and Christine Roughan, Council on Undergraduate 'Posters on Capitol Hill' (Washington, D.C.), “Editing the oldest manuscript of the Iliad”"
       }
+    },
+
+    {
+      "geometry": {
+        "coordinates": [
+	5.191630,
+	  5.772076
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "Sept. 2015, Nikolas Churik and Neel Smith at “Digital Humanities: the example of Antiquity,” on “Testable distant reading in scholia, lexica and paraphrases.”"
+      }
     }
+
+
 
 
 

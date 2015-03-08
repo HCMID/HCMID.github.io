@@ -13,6 +13,22 @@
       "properties": {
         "label": "January 2015, Nikolas Churik, Brian Clark, Stephanie Lindeborg and Neel Smith, “Composing living scholarship: applying automated acceptance tests to scholarly writing” (conference “Scholarship in Software, Software as Scholarship”, Universität Bern). "
       }
+    },
+
+    {
+      "geometry": {
+        "coordinates": [
+          -75.633243,
+          40.245299
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "Brian Clark and Neel Smtih, “Unread Classics: Examples from the Holy Cross Manuscripts, Inscriptions and Documents Club” (The Hill School, Pottstown, PA)."
+
+      }
     }
+    
   ]
 }

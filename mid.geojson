@@ -28,7 +28,26 @@
         "label": "Brian Clark and Neel Smtih, “Unread Classics: Examples from the Holy Cross Manuscripts, Inscriptions and Documents Club” (The Hill School, Pottstown, PA)."
 
       }
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          12.378752,
+          51.338802
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "May 2014, Leipzig University Center for Digital Technology: Rebecca Finnigan ‘15, “An unpublished manuscript of Archimedes” and Christine Bannan ‘14, “Reassessing the Athenian Tribute Lists”"
+
+      }
     }
+
+
     
   ]
 }

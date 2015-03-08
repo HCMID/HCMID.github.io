@@ -77,6 +77,22 @@
 
       }
       
+    },
+
+    {
+      "geometry": {
+        "coordinates": [
+          -71.119689,
+          42.407524
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "March 2014, keynote address at NEH Advanced Institute (Tufts University): Becky Musgrave ‘14, Neil Curran ‘14, Alex Simrell ‘16, and Chris Ryan ‘16 (Homer Multitext project), Stephanie Neville ‘17, Charlie Schuhfrieder ‘17, and Nick Jalbert ‘16 and (Jerome’s Chronicles), and Megan Whitacre ‘14 (Latin epigraphy)"
+
+      }
+      
     }
 
 

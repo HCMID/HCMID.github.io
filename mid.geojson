@@ -60,7 +60,25 @@
         "label": "May, 2014, Christine Roughan and Neel Smith, “Constructing, Testing and Analyzing a Semantic Graph of Manuscript Features” (International Congress of Medieval Studies, Western Michigan University)."
 
       }
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          -3.689851,
+          40.423358
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "May 2014, Christine Roughan ‘14, “Digital diplomatic editions of mathematical diagrams” (conference “Digital Access to Textual Cultural Heritage,” Madrid, Spain)."
+
+      }
+      
     }
+
 
 
 

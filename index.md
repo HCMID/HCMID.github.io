@@ -19,7 +19,7 @@ Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwi
 ## Hall of Fame ##
 
 - [conference papers,  publications, and funded research](hof) from members of HC MID Club
-- [map presentations and conferences outside Worcester](where) by MID members
+
 
 ## Special events ##
 

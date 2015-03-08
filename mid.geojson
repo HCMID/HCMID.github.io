@@ -93,7 +93,24 @@
 
       }
       
+    },
+
+    {
+      "geometry": {
+        "coordinates": [
+           -71.106193,
+          42.350452
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "March 2014, Becky Musgrave ‘14, Neil Curran ‘14, Alex Simrell ‘16, Chris Ryan ‘16, “Editing the Homer Multitext” at Boston Unversity conference “Shaping Homer”"
+
+      }
+      
     }
+
 
 
 

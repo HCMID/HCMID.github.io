@@ -168,7 +168,22 @@
       "type": "Feature",
       "properties": {
         "label": "Sept. 2015, Nikolas Churik and Neel Smith at “Digital Humanities: the example of Antiquity,” on “Testable distant reading in scholia, lexica and paraphrases.”"
+      }
+    },
 
+
+
+        {
+      "geometry": {
+        "coordinates": [
+	  -71.178156,
+	  42.260761
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "March, 2015, Stephanie Neville, Claude Hanley, Stephen Merola,“Tracing the Scribal Tradition in the Manuscripts of St. Jerome’s Chronicle”, Classical Association of New England Annual Meeting"
       }
     }
 

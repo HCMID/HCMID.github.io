@@ -140,6 +140,22 @@
         "label": "December 2012, Matt Angiollilo, Thomas Arralde, Melissa Browne, Nikolas Churik, Brian Clark, Stephanie Lindeborg, and Rebecca Musgrave, “The Homer Multitext project” (Sunoikisis Undergraduate Research conference at the Center for Hellenic Studies)"
       }
       
+    },
+
+
+    {
+      "geometry": {
+        "coordinates": [
+	-77.009973,
+	  38.889313
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "April 2012, Thomas Arralde, Stephanie Lindeborg and Christine Roughan, Council on Undergraduate “Posters on Capitol Hill” (Washington, D.C.), “Editing the oldest manuscript of the Iliad”"
+      }
+      
     }
 
 

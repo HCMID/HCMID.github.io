@@ -130,15 +130,14 @@
     {
       "geometry": {
         "coordinates": [
-           -77.061935,
-		38.917675
+          -77.061935,
+	  38.917675
         ],
         "type": "Point"
       },
       "type": "Feature",
       "properties": {
-        "label": "December 2012, Matt Angiollilo, Thomas Arralde, Melissa Browne, Nikolas Churik, Brian Clark, Stephanie Lindeborg, and Rebecca Musgrave, “The Homer Multitext project” (Sunoikisis Undergraduate Research conference at the Center for Hellenic Studies)
-"
+        "label": "December 2012, Matt Angiollilo, Thomas Arralde, Melissa Browne, Nikolas Churik, Brian Clark, Stephanie Lindeborg, and Rebecca Musgrave, “The Homer Multitext project” (Sunoikisis Undergraduate Research conference at the Center for Hellenic Studies)"
       }
       
     }

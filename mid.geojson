@@ -185,6 +185,20 @@
       "properties": {
         "label": "March, 2015, Stephanie Neville, Claude Hanley, Stephen Merola,“Tracing the Scribal Tradition in the Manuscripts of St. Jerome’s Chronicle”, Classical Association of New England Annual Meeting"
       }
+    },
+
+        {
+      "geometry": {
+        "coordinates": [
+	  -79.395404,
+	  43.662562
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "May, 2015, Stephanie Lindeborg and Neel Smith, 'Managing Sustainable Digital Projects: examples from the Homer Multitext project and the Holy Cross Manuscripts, Inscriptions, and Documents Club'"
+      }
     }
 
     

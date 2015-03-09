@@ -11,7 +11,7 @@ Since the MID Club was formally recognized as a RSO in 2012, we have co-sponsore
     - Porter Weeks and Blake Werab, "Investigation of the Table of Chords in Manuscripts of Ptolemy's *Almagest*"
     - Mary Patrice Hamilton, "The Purpose and Construction of Diagrams in Proclus' *Commentary on Euclid, Book One*"
     -  Rebecca Finnigan, " An investigation into the mathematical diagrams of Euclid using primary sources"
-    - Michael Kelley and Corey Scannell, "The Only Extant Manuscript Copy of Apollonius Sophistes' *Homeric Lexicon"
+    - Michael Kelley and Corey Scannell, "The Only Extant Manuscript Copy of Apollonius Sophistes' *Homeric Lexicon*"
     - Charlie Schufrieder, Alex Simrell,  and Melody Wauke, "Observations in *Iliad* Books 14 and 15 in the Venetus A Manuscript"
     - Andrew Boudon, "Changes in Ancient Greek Divinity after the Lamian War"
     - Brian Clark, "Retellings of the *Iliad*"

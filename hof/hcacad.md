@@ -6,7 +6,7 @@ layout: page
 
 Since the MID Club was formally recognized as a RSO in 2012, we have co-sponsored a session with the Classics Department at the college's annual spring Academic Conference.  See the program listings for:
 
-- 2015:  proposed program
+- [2015](http://news.holycross.edu/wp-content/uploads/2015/04/ACProgram2015.pdf)
     - Claude Hanley, Steven Merola, and Stephanie Neville, "Tracing the Scribal Tradition in Manuscripts of Jerome's *Chronicle*"
     - Porter Weeks and Blake Werab, "Investigation of the Table of Chords in Manuscripts of Ptolemy's *Almagest*"
     - Mary Patrice Hamilton, "The Purpose and Construction of Diagrams in Proclus' *Commentary on Euclid, Book One*"

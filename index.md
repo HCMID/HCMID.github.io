@@ -30,7 +30,7 @@ We occasionally host [presentations from others](hosted), and participate in the
 ## Mission Statement ##
 
 
->The aim of the Manuscripts, Inscriptions and Documents Club shall be to further the study of these academic fields: paleography, codicology, epigraphy, as well as the study of languages. We strive for undergraduate inclusion in work normally reserved for the graduate level.
+>The aim of the Manuscripts, Inscriptions and Documents Club shall be to further the study of these academic fields: paleography, codicology, epigraphy, as well as the study of languages. We strive for undergraduate inclusion in research.
 
 
 ## Keeping up with HC MID ###

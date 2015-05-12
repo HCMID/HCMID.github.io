@@ -26,3 +26,8 @@ ul.postslist {
 .datelabel {
     font-weight: bold;
 }
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}

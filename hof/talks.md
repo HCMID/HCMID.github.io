@@ -3,7 +3,8 @@ title: "MID Hall of Fame: conference presentations"
 layout: page
 ---
 
-
+- May 2015, Stephanie Lindeborg '13 and Neel Smith, "Designing Digital Projects: Foundational Principles and Practical Solutions from the Homer Multitext project and Holy Cross Manuscripts Club" (Toronto, Canadian Classical Association)
+- March 2015, Stephanie Neville, Stephen Merola and Claude Hanley,  "Representing the Scribal Tradition in Diplomatic Editions of Manuscripts of Jerome’s *Chronicle*", [Classical Association of New England annual meeting](http://caneweb.org/new/wp-content/uploads/109thCANEAnnualMeetingProgram-web.docx1.pdf).
 - January 2015,  Nikolas Churik, Brian Clark, Stephanie Lindeborg and Neel Smith, “Composing living scholarship: applying automated acceptance tests to scholarly writing” (conference "Scholarship in Software, Software as Scholarship", Universität Bern). See [conference program](https://infoclio.ch/sites/default/files/eventdocs/Full_programme150124.pdf).
 - December 2014,  Andrew Boudon, Nikolas Churik, Brian Clark, Mary Ebbott, Stephanie Lindeborg, Christopher Ryan,  Alexander Simrell, and Neel Smith, "Digital Access and the Practicality of Citizen Scholarship" (workshop on "Greek and Latin in an Age of Open Data").  See [abstract](http://www.dh.uni-leipzig.de/wo/workshop-december-2014/greek-and-latin-in-an-age-of-open-data-schedule/andrew-boudon-et-al-digital-access/).
 - December 2014,  Andrew Boudon, Nikolas Churik, Brian Clark, Mary Ebbott, Stephanie Lindeborg, Christopher Ryan,  Alexander Simrell, and Neel Smith, "A Redefinition of Classical Scholarship" (workshop on “Greek and Latin in an Age of Open Data”). See [abstract](http://www.dh.uni-leipzig.de/wo/workshop-december-2014/greek-and-latin-in-an-age-of-open-data-schedule/andrew-boudon-et-al-a-redefinition/).

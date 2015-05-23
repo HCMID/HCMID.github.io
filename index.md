@@ -6,12 +6,14 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 Regular meeting time in Spring, 2015:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
 
-## Current projects in 2014-2015 ##
+## Current projects ##
 
+A large team of HC MID members will be working at HC this summer on the Homer Multitext project; two members will take part in the Homer Multitext project seminar this summer.
 
+In addition to the Homer Multitext project, club members from the following projects will return to campus in the fall semester of 2015:
 
-- Several teams are contributing to Homer Multitext project
 - Manuscripts of Jerome's *Chronicles*
+- Chronological and computistic works of the Venerable Bede
 - Mathematical diagrams in Greek and Latin manuscripts
 
 

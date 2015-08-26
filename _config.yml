@@ -15,7 +15,8 @@ title:            HC MID
 tagline: 'Devoted to the study of incompletely published primary sources'
 description:      'Home page of the Holy Cross Manuscripts, Inscriptions and Documents Club'
 url:
-baseurl: 'http://HCMID.github.io'
+#baseurl: 'http://HCMID.github.io'
+baseurl: ''
 
 author:
   name:           'Neel Smith'

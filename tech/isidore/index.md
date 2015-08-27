@@ -15,7 +15,7 @@ In addition to standard Mac OS X applications including a teminal for running a 
 
 - a licensed copy of the oXygen XML Editor
 - [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) for editing Markdown
-- [pandoc](http://pandoc.org/), "universal document converter"
+- [pandoc](http://pandoc.org/), a "universal document converter"
 - [sophokeys](http://www.benjaminblonder.org/sophokeys/), a polytonic Greek keyboard input method.  (The `oxygen` account is configured to use command-space as a shortcut for cycling through keyboard input methods.)
 - Firefox web browser with the [alpheios text tools for Greek and Latin](http://alpheios.net/content/user-guide)
 - R and RStudio for statistics

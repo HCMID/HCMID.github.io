@@ -13,10 +13,13 @@ Club members may use the shared `oxygen` user account on any of the client compu
 
 In addition to standard Mac OS X applications including a teminal for running a `bash` shell and TextEdit for simple text editing, the shared `oxygen` account on the client machines includes:
 
-- a licensed copy of the oXygen XML Editor
+- a licensed copy of the [oXygen XML Editor](http://www.oxygenxml.com/)
+- [Atom](http://bjoern.brembs.net/2013/08/12-year-anniversary-of-angry-letter-to-scientific-journal-editor/) for editing Markdown and code
 - [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) for editing Markdown
 - [pandoc](http://pandoc.org/), a "universal document converter"
 - [sophokeys](http://www.benjaminblonder.org/sophokeys/), a polytonic Greek keyboard input method.  (The `oxygen` account is configured to use command-space as a shortcut for cycling through keyboard input methods.)
+- [MacTex](http://www.tug.org/mactex/) for typesetting with LaTex
+- Openly licensed fonts including a selection from the [Greek Font Society](http://www.greekfontsociety.gr/)
 - Firefox web browser with the [alpheios text tools for Greek and Latin](http://alpheios.net/content/user-guide)
 - R and RStudio for statistics
 - Gimp for bitmapped graphics
@@ -29,4 +32,3 @@ In addition to standard Mac OS X applications including a teminal for running a 
 ### Client machines: the `classics` account ###
 
 The client machines have an account named `classics` with administrative privileges.  Authorized lab monitors and other members of the club who are helping maintain the lab may also be given access to the `classics` account.
-

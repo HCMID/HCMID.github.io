@@ -27,6 +27,7 @@ In addition to standard Mac OS X applications including a teminal for running a 
 - [MuseScore](https://musescore.org/)  for composing musical scores
 - Vagrant and VirtualBox for running virtual machines
 - rubygems and jekyll for developing and testing web sites written in markdown
+- Node.js (and its packaging system `npm`)
 
 
 ### Client machines: the `classics` account ###

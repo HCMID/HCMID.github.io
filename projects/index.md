@@ -12,7 +12,7 @@ Work this fall includes:
 - introduction of an automated validation system for Latin analogous to the HMT project's validation system
 
 
-## Chants annotated with neuems
+## Chants annotated with neumes
 
 New project in F'16!  More info to come from Ying Hong, Michael Shun, Julia Spiegel, and Allyn Waller.
 

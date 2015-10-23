@@ -13,7 +13,7 @@ A large team of HC MID members will be working at HC this summer on the Homer Mu
 In addition to the Homer Multitext project, club members from the following projects will return to campus in the fall semester of 2015:
 
 - Manuscripts of Jerome's *Chronicles*
-- Chronological and computistic works of the Venerable Bede
+- Latin liturgical manuscripts with chant
 - Mathematical diagrams in Greek and Latin manuscripts
 
 

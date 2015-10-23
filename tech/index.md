@@ -12,6 +12,10 @@ See this page for more information about the [St. Isidore of Seville research la
 
 ## Tech help ##
 
+Much of the [technical documentation on the Homer Multitext project's github site][hmtdoc] is relevant for all of HC MID's editing projects.
+
+[hmtdoc]: http://homermultitext.github.io/hmt-docs/
+
 
 Some one-page guides and links to more information about basic technologies we use at HC MID.
 
@@ -20,4 +24,3 @@ Some one-page guides and links to more information about basic technologies we u
 - [Editing in the St. Isidore of Seville lab](editing-in-lab)
 - [Overview of version control with git](git-intro).  (See also "[Learn `git` in 15 minutes](http://try.github.io/levels/1/challenges/1).")
 - [Creating bifolio images with GIMP](gimp-bifolio)
-

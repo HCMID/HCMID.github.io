@@ -14,8 +14,7 @@ Work this fall includes:
 
 ## Chants annotated with neumes
 
-New project in F'16!  More info to come from Ying Hong, Michael Shun, Julia Spiegel, and Allyn Waller.
-
+New project in F'16!  More info to come from  Michael Shun, Julia Spiegel, and Allyn Waller.
 
 ## Homer Multitext project
 

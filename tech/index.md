@@ -22,5 +22,5 @@ Some one-page guides and links to more information about basic technologies we u
 
 
 - [Editing in the St. Isidore of Seville lab](editing-in-lab)
-- [Overview of version control with git](git-intro).  (See also "[Learn `git` in 15 minutes](http://try.github.io/levels/1/challenges/1).")
+- [Overview of version control with git](git-intro).  (See also "[Learn `git` in 15 minutes](http://try.github.io/levels/1/challenges/1)," and the invaluable and admirably concise [summary from xkcd](http://xkcd.com/1597/).)
 - [Creating bifolio images with GIMP](gimp-bifolio)

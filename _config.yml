@@ -3,7 +3,7 @@ kramdown:
   input: GFM
 #markdown: redcarpet
 
-highlighter: pygments
+highlighter: rouge
 
 #:         true
 
@@ -39,6 +39,3 @@ links:
     external: true
   - title: Administrative information
     url: /admin
-     
-     
-

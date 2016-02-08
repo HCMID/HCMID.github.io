@@ -1,6 +1,22 @@
 {
   "type": "FeatureCollection",
   "features": [
+
+    {
+      "geometry": {
+        "coordinates": [
+          -76.884659,
+          40.955237
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "July 2016 (DH2016):, Brian Clark, Claude Hanley, Charlie Schufreider, Melody Wauke:  “Using Digital Editions to Analyze Iliadic Text Reuse and its Poetic Tradition”;  Alex Simrell (with Prof. Neven Jovanovič, University of Zagreb):  “Implementing Canonical Text Services in the Croatiae Auctores Latini Digital Collection”;  Stephanie Lindeborg and Neel Smith: “Comparing Digital Scholarly Editions”"
+      }
+    },
+
+
     {
       "geometry": {
         "coordinates": [

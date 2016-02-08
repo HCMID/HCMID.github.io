@@ -9,7 +9,7 @@ The MID Club grew out of summer research at Holy Cross going back to 2010.  Ever
 ### 2015 ###
 
 - Holy Cross 9-week research program:
-    - C. Hanley, S. Neville, A. Simrell, C. Schufreider, M. Wauke (advisors M. Ebbott and N. Smith)
+    - C. Hanley, S. Neville, A. Simrell, C. Schufreider, M. Wauke, "Forging a digital diplomatic edition of the *Iliad*" (advisors M. Ebbott and N. Smith)
 
 
 - Center for Hellenic Studies summer seminar on the Homer Multitext project:  Corey Scannell, Michael Kelley

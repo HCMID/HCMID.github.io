@@ -6,6 +6,15 @@ layout: page
 
 The MID Club grew out of summer research at Holy Cross going back to 2010.  Every year since then,  members of HC MID have successfully competed for summer research funding.
 
+### 2015 ###
+
+- Holy Cross 9-week research program:
+    - C. Hanley, S. Neville, A. Simrell, C. Schufreider, M. Wauke (advisors M. Ebbott and N. Smith)
+
+
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:  Corey Scannell, Michael Kelley
+
+
 ### 2014 ###
 
 - Holy Cross 9-week research program:
@@ -30,9 +39,9 @@ The MID Club grew out of summer research at Holy Cross going back to 2010.  Ever
     - Neil Curran, Stephanie Lindeborg, "Digitally Editing the *Iliad*: the Escorial Υ.1.1 Manuscript"  (advisors M. Ebbott and N. Smith)
     -  M. Angiolillo, T. Arralde, M. Whitacre, "The Most Important List in Classical Literature: *Iliad* Book 2 in the
 Venetus A Manuscript"  (advisors M. Ebbott, and N. Smith)
-    - C. Roughan, "Recapturing a Lost Text: The Archimedes Palimpsest" (advisor N. Smith) 
+    - C. Roughan, "Recapturing a Lost Text: The Archimedes Palimpsest" (advisor N. Smith)
 - Center for Hellenic Studies summer seminar on the Homer Multitext project:   Nikolas Churik, Brian Clark, Becky Musgrave
-    
+
 
 ### 2011
 

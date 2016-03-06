@@ -1,6 +1,20 @@
 {
   "type": "FeatureCollection",
   "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          1.2578,
+          51.7519
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "February 2016, Nikolas Churik:  “Greek Explicating Greek:  A Study of Metaphrase Language and Style” (Oxford University Byzantine Society’s 18th International Graduate Conference)"
+      }
+    },
+
 
     {
       "geometry": {

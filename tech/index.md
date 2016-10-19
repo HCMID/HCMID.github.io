@@ -15,7 +15,9 @@ See this page for more information about the [St. Isidore of Seville research la
 Ten-minute "how-to" videos for some common tasks in editing manuscripts.
 
 
+## Software for editing manuscripts
 
+Install all the [software you need to work on MID projects](software) on your personal machine.
 
 ## Tech help ##
 

@@ -12,7 +12,7 @@ See this page for more information about the [St. Isidore of Seville research la
 
 ## HC MID youtube playlist
 
-Ten-minute "how-to" videos for some common tasks in editing manuscripts.
+[Ten-minute "how-to" videos](https://www.youtube.com/playlist?list=PLJTxcGcJBiz5H-BhBkDFaebI9-R9RSkIN) for some common tasks in editing manuscripts.
 
 
 ## Software for editing manuscripts

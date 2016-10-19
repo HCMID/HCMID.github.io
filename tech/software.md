@@ -23,4 +23,4 @@ Many useful tools for work on MID projects are pre-installed in [this virtual ma
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Vagrant](https://www.vagrantup.com/)
 
-See the MID youtube playlist for a tutorial on installing and running a virtual machine.
+See the MID youtube playlist for [tutorials on installing and using a virtual machine](https://www.youtube.com/playlist?list=PLJTxcGcJBiz5H-BhBkDFaebI9-R9RSkIN).

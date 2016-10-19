@@ -10,6 +10,13 @@ title: Technical resources
 See this page for more information about the [St. Isidore of Seville research lab](isidore)
 
 
+## HC MID youtube playlist
+
+Ten-minute "how-to" videos for some common tasks in editing manuscripts.
+
+
+
+
 ## Tech help ##
 
 Much of the [technical documentation on the Homer Multitext project's github site][hmtdoc] is relevant for all of HC MID's editing projects.

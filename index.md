@@ -14,6 +14,8 @@ In addition to the Homer Multitext project, club members from the following proj
 
 - Latin liturgical manuscripts with chant annotated with neumes
 - Manuscripts of Jerome's *Chronicles*
+- Pliny the Elder, *Natural History*
+- The *Chronicle* of Fredegarius
 
 
 ## Hall of Fame ##

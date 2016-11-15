@@ -3,6 +3,8 @@ title: "MID Hall of Fame: conference presentations"
 layout: page
 ---
 
+
+- October 2016, with Melody Wauke ’17 (with Neel Smith), “Data science in your Latin classroom,” Classical Association of Massachusetts.
 - Feb. 2016, Nik Churik '15, "Greek Explicating Greek:  A Study of Metaphrase Language and Style" (Oxford University Byzantine Society’s 18th International Graduate Conference).
 - Nov. 2015, Claude Hanley, Stephanie Neville, Charlie Schufrieder and Alex Simrell  “Digital Editions of Primary Documents: A Collaborative Modern Approach to Ancient Texts.” (Bucknell University, conference  “Collaborating Digitally: Engaging Students in Public Scholarship”)
 - Sept. 2015, Nikolas Churik ’15 and Neel Smith, "Testable distant reading in scholia, lexica and paraphrases" (Grenoble, France, conference "Digital Humanities: the Example of Classical Antiquity")

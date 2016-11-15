@@ -4,6 +4,7 @@ layout: page
 ---
 
 
+- [publications](publications)
 - [talks and presentations](talks)
 - [funded summer research](grants)
 - [Holy Cross Academic Conference](hcacad)

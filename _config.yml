@@ -34,6 +34,8 @@ links:
     url: /where
   - title: Tech help
     url: /tech
+  - title: Guide
+    url: /guide
   - title: Twitter feed
     url: https://twitter.com/hcmid
     external: true

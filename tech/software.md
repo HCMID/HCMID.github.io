@@ -6,6 +6,8 @@ title: Software for editing manuscripts
 
 ## Basics
 
+### Version control
+
 Since we manage all our work using `git` for version control,  all members of your team should:
 
 - install git: <https://github.com/>
@@ -13,6 +15,13 @@ Since we manage all our work using `git` for version control,  all members of yo
     - OS X users: `Terminal.app` is already in `/Applications/Utilities`
     - Windows users: use `gitbash` (installed with Windows versions of `git`)
     - Linux users: any of your favorite terminals
+
+### Validating XML editor
+
+An excellent option is the [Atom editor](https://atom.io/).  After you install Atom:
+
+1. add the [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing) plugin
+2. install [this package](https://github.com/neelsmith/atomic-tei) for automatic validation of documents following the Text Encoding Initiative (TEI) schema
 
 
 ## A virtual machine for editors

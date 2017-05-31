@@ -6,6 +6,14 @@ layout: page
 
 Since the MID Club was formally recognized as a RSO in 2012, we have co-sponsored a session with the Classics Department at the college's annual spring Academic Conference.  See the program listings for:
 
+
+- 2017
+- [2016](http://crossworks.holycross.edu/cgi/viewcontent.cgi?article=1014&context=academic_conf)
+    - Nicholas Guarracino ’18, Ying Hong ’19,Michael Shun ’18, Julia Spiegel ’19, Allyn Waller ’18: "Neumes: Notation and Abbreviation in Tenth-Century Chant Manuscripts"
+    - Kevin Cogan ’19 Liam Prendergast ’19 Zachary Sowerby ’19: "Irregularities in the Escorial Omega 1.12 manuscript of the *Iliad*"
+    -  Claude Hanley ’18 Charlie Schufreider ’17, "Developing a Corpus-Specific Ancient Greek Parser"
+    - Christopher Ryan ’16 Alex Simrell ’16, "Validation and Verification in the Homer Multitext Project"
+    -  Michael Kelley ’18 Corey Scannell ’18 Melody Wauke ’17, "Observations on Scholia to *Iliad* 17 in the Venetus A manuscript"
 - [2015](http://news.holycross.edu/wp-content/uploads/2015/04/ACProgram2015.pdf)
     - Claude Hanley, Steven Merola, and Stephanie Neville, "Tracing the Scribal Tradition in Manuscripts of Jerome's *Chronicle*"
     - Porter Weeks and Blake Werab, "Investigation of the Table of Chords in Manuscripts of Ptolemy's *Almagest*"

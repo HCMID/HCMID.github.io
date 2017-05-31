@@ -4,7 +4,30 @@ layout: page
 ---
 
 
-The MID Club grew out of summer research at Holy Cross going back to 2010.  Every year since then,  members of HC MID have successfully competed for summer research funding.
+The MID Club grew out of summer research at Holy Cross going back to 2010.  Every year since then,  members of HC MID have successfully competed for summer research funding.  Club members have also secured funding for other kinds of work under new programs beginning in 2017.
+
+
+### 2017 ###
+
+
+- Holy Cross summer research program: Claude Hanley, Julia Spiegel, Zak Sowerby
+
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:  James Geary, Michael Raheb
+
+- Research associate on Holy Cross Classics department's Free Latin And Greek (FLAG) project: Richard Ciolek
+
+- Ignite fund for individual projects:
+    - Liam Prendergast, "Parsing Greek hexameter"
+    - Melissa Gryan, "Ancient coins in the Worcester Art Museum"
+    - Hannah Nguyen and Hanna Seariac, "Manuscript hackathon for middle- and high-school students of Latin"
+
+### 2016 ###
+
+
+- Holy Cross summer research program: Claude Hanley, Melody Wauke, Corey Scannell
+
+- Center for Hellenic Studies summer seminar on the Homer Multitext project:  Julia Spiegel, Zak Sowerby
+
 
 ### 2015 ###
 

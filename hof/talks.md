@@ -3,6 +3,7 @@ title: "MID Hall of Fame: conference presentations"
 layout: page
 ---
 
+- May 2017, Charlie Schufrieder and Melody Wauke, "Recovering the history of Iliadic scholia: architecture and initial results from the Homer Multitext project" (Heidelberg, Germany: "Digital Classics III: Re-thinking Text Analysis")
 - May 2017, Alex Simrell, "The Importance of Citation in “Digital Humanities”: Producing a CTS Version of Tyrolean Neo-Latin Texts" (Innsbruck, Austria, Ludwig Boltzmann Institute for Neo-Latin Studies).
 - April 2017, Alex Simrell, "Alex Simrell (Zagreb): Digitalna analiza imena mjesta u Bunićevu epu De raptu Cerberi" (Split, Croatia: Marulićevi Dani Conferene).
 - March 2017, Alex Simrell, "The Holy Cross Manuscripts, Inscriptions, and Documents Club: What We Do and How You Can Too!" (Dubrovnik, Croatia, Classical High School).

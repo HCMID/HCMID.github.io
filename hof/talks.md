@@ -3,8 +3,16 @@ title: "MID Hall of Fame: conference presentations"
 layout: page
 ---
 
-- March 2017, with Stephanie Lindeborg '13 (Boston Latin Academy and Homer Multitext Project), Toni Armstrong (Clark University), Jeffrey Dickinson, Michael Raheb and Julia Spiegel, "Bringing Manuscripts into the Classroom.""
+- May 2017, Alex Simrell, "The Importance of Citation in “Digital Humanities”: Producing a CTS Version of Tyrolean Neo-Latin Texts" (Innsbruck, Austria, Ludwig Boltzmann Institute for Neo-Latin Studies).
+- April 2017, Alex Simrell, "Alex Simrell (Zagreb): Digitalna analiza imena mjesta u Bunićevu epu De raptu Cerberi" (Split, Croatia: Marulićevi Dani Conferene).
+- March 2017, Alex Simrell, "The Holy Cross Manuscripts, Inscriptions, and Documents Club: What We Do and How You Can Too!" (Dubrovnik, Croatia, Classical High School).
+- March 2017, with Stephanie Lindeborg '13 (Boston Latin Academy and Homer Multitext Project), Toni Armstrong (Clark University), Jeffrey Dickinson, Michael Raheb and Julia Spiegel, "Bringing Manuscripts into the Classroom."
+- January 2017, with Neven Jovanovic (University of Zagreb), Alex Simrell "Digital commenting on place names in early modern Latin texts" (Leipzig, Germany: "Global Philology – Digital Infrastructure for Named Entities Data")
 - October 2016, with Melody Wauke ’17 (with Neel Smith), “Data science in your Latin classroom,” Classical Association of Massachusetts.
+- July 2016, Brian Clark, Claude Hanley, Charlie Schufreider and Melody Wauke, “Using Digital Editions to Analyze Iliadic Text Reuse and its Poetic Tradition”  (Krakow, Poland, Digital Humanities 2016). [Published abstract](http://dh2016.adho.org/abstracts/25).
+- July 2016, with Neven Jovanović (University of Zagreb), Alex Simrell,“Implementing Canonical Text Services in the Croatiae Auctores Latini Digital Collection”  (Krakow, Poland, Digital Humanities 2016). [Published abstract](http://dh2016.adho.org/abstracts/229).
+- July 2016, with Neel Smith, Stephanie Lindeborg '13, “Comparing Digital Scholarly Editions”. [Published abstract](http://dh2016.adho.org/abstracts/141).
+- March 2016, Charlie Schufreider and Claude Hanley, "Collaborative digital editing in the Homer Multitext project" (Washington, D.C., Center for Hellenic Studies: visiting scholars talk).
 - Feb. 2016, Nik Churik '15, "Greek Explicating Greek:  A Study of Metaphrase Language and Style" (Oxford University Byzantine Society’s 18th International Graduate Conference).
 - Nov. 2015, Claude Hanley, Stephanie Neville, Charlie Schufrieder and Alex Simrell  “Digital Editions of Primary Documents: A Collaborative Modern Approach to Ancient Texts.” (Bucknell University, conference  “Collaborating Digitally: Engaging Students in Public Scholarship”)
 - Sept. 2015, Nikolas Churik ’15 and Neel Smith, "Testable distant reading in scholia, lexica and paraphrases" (Grenoble, France, conference "Digital Humanities: the Example of Classical Antiquity")

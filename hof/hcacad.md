@@ -9,11 +9,11 @@ Since the MID Club was formally recognized as a RSO in 2012, we have co-sponsore
 
 - [2017](http://www.holycross.edu/sites/default/files/files/academics/academicconferenceprogram2017.pdf)
     - Stephanie Neville ’17, Hannah Nguyen ’19, and Hanna Seariac ’20, "The *Chronicles* of Fredegarius"
-    - Julia Spiegel ’19 and Allyn Waller ’18, "Editing manuscripts with chant"
+    - Toni Armstrong (Clark University '19), Julia Spiegel ’19 and Allyn Waller ’18, "Editing manuscripts with chant"
     - Richard Ciolek ’20, Jeffrey Dickinson ’19, Melissa Gryan ’18, Michael Raheb ’20, and Will Walker ’19, "Pliny the Elder, *Natural History*"
     - Steven Paganelli ’19, Liam Prendergast ’19, "*Paragraphoi* and paragraphs in three manuscripts of the *Iliad*"
-    - Michael Kelley ’18 and Cory Scannell ’18, "Aristarchan critical signs on scholia of the Venetus A"
-    - James Garry ’20, Claude Hanley ’18, and Zachary Sowerby ’19, "From musical pitch to grammatical rule: accent in Homeric manuscripts"
+    - Claude Hanley ’18, Michael Kelley ’18 and Cory Scannell ’18, "Aristarchan critical signs on scholia of the Venetus A"
+    - James Garry ’20, Joshua Glenn '20, and Zachary Sowerby ’19, "From musical pitch to grammatical rule: accent in Homeric manuscripts"
     - Melody Wauke ’17, "Alexandrian editors and the scholia of the Venetus A"
     - Charles Schufreider ’17, "On the Format of the Scholia to the *Iliad* in the
 Venetus A Manuscript"

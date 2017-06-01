@@ -3,6 +3,20 @@
   "features": [
 
 
+{
+  "geometry": {
+    "coordinates": [
+      18.0944,
+      42.6507
+    ],
+    "type": "Point"
+  },
+  "type": "Feature",
+  "properties": {
+    "label": "Alex Simrell,  The Holy Cross Manuscripts, Inscriptions, and Documents Club: What We Do and How You Can Too!  (Dubrovnik, Croatia, Classical High School)."
+  }
+},
+
 
 {
   "geometry": {

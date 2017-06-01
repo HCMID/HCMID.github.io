@@ -2,6 +2,21 @@
   "type": "FeatureCollection",
   "features": [
 
+{
+  "geometry": {
+    "coordinates": [
+      70.9478,
+      42.9814
+    ],
+    "type": "Point"
+  },
+  "type": "Feature",
+  "properties": {
+    "label": "Stephanie Lindeborg ‘13 (Boston Latin Academy and Homer Multitext Project), Toni Armstrong (Clark University), Jeffrey Dickinson, Michael Raheb and Julia Spiegel, “Bringing Manuscripts into the Classroom.”"
+  }
+},
+
+
 
 {
   "geometry": {

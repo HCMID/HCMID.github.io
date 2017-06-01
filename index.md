@@ -4,12 +4,12 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
 
-Regular meeting times in Fall, 2017:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
+Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
 
-## Current projects, F'17 ##
+## Current projects (AY 2016-17) ##
 
 
-In addition to the Homer Multitext project, club members from the following projects will return to campus in the fall semester of 2016:
+In addition to the Homer Multitext project, club members worked on the following projects in academic year 2016-2017:
 
 
 - Latin liturgical manuscripts with chant annotated with neumes

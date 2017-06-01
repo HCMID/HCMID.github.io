@@ -1,6 +1,23 @@
 {
   "type": "FeatureCollection",
   "features": [
+
+    {
+      "geometry": {
+        "coordinates": [
+          8.6724,
+          49.3988
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "Charlie Schufrieder and Melody Wauke, “Recovering the history of Iliadic scholia: architecture and initial results from the Homer Multitext project” (Heidelberg, Germany: “Digital Classics III: Re-thinking Text Analysis”)"
+      }
+    },
+
+
+
     {
       "geometry": {
         "coordinates": [

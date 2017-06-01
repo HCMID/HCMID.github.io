@@ -2,6 +2,22 @@
   "type": "FeatureCollection",
   "features": [
 
+
+{
+  "geometry": {
+    "coordinates": [
+      11.4041,
+      47.2692
+    ],
+    "type": "Point"
+  },
+  "type": "Feature",
+  "properties": {
+    "label": "Alex Simrell, “The Importance of Citation in “Digital Humanities”: Producing a CTS Version of Tyrolean Neo-Latin Texts” (Innsbruck, Austria, Ludwig Boltzmann Institute for Neo-Latin Studies)."
+  }
+},
+
+
     {
       "geometry": {
         "coordinates": [

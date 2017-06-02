@@ -2,6 +2,23 @@
   "type": "FeatureCollection",
   "features": [
 
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1652,
+          39.9526
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "July, 2017, Keystone DH (Philadelphia, PA):  Claude Hanley, Julia Spiegel, Zak Sowerby, “The Homer Multitext Project and the Development of Greek Accent Notation”"
+      }
+    },
+
+
+
+
 {
   "geometry": {
     "coordinates": [

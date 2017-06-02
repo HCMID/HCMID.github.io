@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
 
-  
+
 
 
 
@@ -17,7 +17,8 @@
       },
       "type": "Feature",
       "properties": {
-        "label": "October, 2017, CAAS (New York). Richard Ciolek, Jeffrey Dickinson, Melissa Gryan, Michael Raheb, and William Walker, “A Diplomatic Digital Edition of Pliny the Elder’s Bamberg Manuscript”"
+        "label": "October, 2017, CAAS (New York). Richard Ciolek, Jeffrey Dickinson, Melissa Gryan, Michael Raheb, and William Walker, “A Diplomatic Digital Edition of Pliny the Elder’s Bamberg Manuscript”; and workshop
+        “Using Manuscripts in All Levels of the Latin  Classroom”, Toni Armstrong, Clark University, Jeffrey Dickinson, Allyn Waller with Stephanie Lindeborg '13"
       }
     },
 

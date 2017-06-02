@@ -5,6 +5,40 @@
     {
       "geometry": {
         "coordinates": [
+          -74.0059,
+          40.7128
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "October, 2017, CAAS (New York). Workshop
+        “Using Manuscripts in All Levels of the Latin  Classroom”, Toni Armstrong, Clark University, Jeffrey Dickinson, Allyn Waller with Stephanie Lindeborg '13"
+      }
+    },
+
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059,
+          40.7128
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "label": "October, 2017, CAAS (New York). Richard Ciolek, Jeffrey Dickinson, Melissa Gryan, Michael Raheb, and William Walker, “A Diplomatic Digital Edition of Pliny the Elder’s Bamberg Manuscript”"
+      }
+    },
+
+
+
+    {
+      "geometry": {
+        "coordinates": [
           -75.1652,
           39.9526
         ],

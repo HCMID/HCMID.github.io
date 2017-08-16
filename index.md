@@ -28,6 +28,9 @@ In addition to the Homer Multitext project, club members worked on the following
 
 We occasionally host [presentations from others](hosted), and participate in the program of Digital Classicist New England.
 
+## Technical help
+
+[Youtube videos and other resources](tech).
 
 ## Mission Statement ##
 

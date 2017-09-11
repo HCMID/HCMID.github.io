@@ -5,9 +5,9 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Open House, Sept. 15!
 
-Come to our annual open house for anyone interested in learning more about HC MID, on Friday, Sept. 15, 3:30-4:30.   Meet returning members, get an overview of ongoing projects, eat cookies, join us!
+Come to our annual open house for anyone interested in learning more about HC MID, on **Friday, Sept. 15, 3:30-4:30, in Hogan 406**.   Meet returning members, get an overview of ongoing projects, eat cookies, join us!
 
-Place: TBA.  (Probably in Hogan.)
+
 
 ## Regular meetings
 

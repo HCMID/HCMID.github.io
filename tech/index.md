@@ -4,6 +4,11 @@ title: Technical resources
 ---
 
 
+## How to organize your projects
+
+See an [overview of HC MID conventions](organize-your-repo)
+
+
 ## Resources on campus ##
 
 

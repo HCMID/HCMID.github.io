@@ -30,7 +30,10 @@ Returning club members have begun work on the following projects in academic yea
 
 ## Technical help
 
-[Youtube videos and other resources](tech).
+-  [Youtube videos and other resources](tech).
+-  New overview of HC MID conventions for [organizing a manuscript project](tech/organize-your-repo).
+
+
 
 ## Hall of Fame
 

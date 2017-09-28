@@ -7,31 +7,28 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Regular meetings
 
-Regular meetings for all members (new and returning) resume Sept. 22.
-
-
 Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
 
 
 ## New projects
 
--  The Homer Multitext project: the "twin manuscripts" (Venice, and Escorial monastery, Spain)
+-  The Homer Multitext project: the "twin manuscripts" (Venice, and Escorial monastery, Spain).  ([Github repository](https://github.com/hmteditors/twins))
 
-## Returning projects (AY 2017-18) ##
-
-
-Returning club members have begun work on the following projects in academic year 2017-2018:
+## Ongoing projects (AY 2017-18) ##
 
 
--   The Homer Multitext project:  the Venetus A manuscript;
--   Latin liturgical manuscripts with chant annotated with neumes
--   Pliny the Elder, *Natural History*: the Bamberg manuscript
+Ongoing projects:
+
+
+-   The Homer Multitext project:  the Venetus A manuscript.
+-   Latin liturgical manuscripts with chant annotated with neumes.  ([Github repository](https://github.com/HCMID/chant).)
+-   Pliny the Elder, *Natural History*: the Bamberg manuscript.  ([Github repository](https://github.com/HCMID/plinius).)
 
 
 ## Technical help
 
--  [Youtube videos and other resources](tech).
--  New overview of HC MID conventions for [organizing a manuscript project](tech/organize-your-repo).
+-  [Resources for MID projects](tech).
+
 
 
 

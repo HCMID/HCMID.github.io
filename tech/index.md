@@ -4,10 +4,11 @@ title: Technical resources
 ---
 
 
-## How to organize your projects
+## HC MID project conventions
 
-See an [overview of HC MID conventions](organize-your-repo)
-
+-   [file naming conventions](file-names)
+-   [how to organize your repository](organize-your-repo)
+-   [overview of MID file system layout](file-layout)
 
 ## Resources on campus ##
 
@@ -28,7 +29,7 @@ Install all the [software you need to work on MID projects](software) on your pe
 
 ## Tech help ##
 
-Much of the [technical documentation on the Homer Multitext project's github site][hmtdoc] is relevant for all of HC MID's editing projects.
+Some of the [technical documentation on the Homer Multitext project's github site][hmtdoc] is relevant for all of HC MID's editing projects.
 
 [hmtdoc]: http://homermultitext.github.io/hmt-docs/
 

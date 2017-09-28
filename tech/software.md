@@ -4,9 +4,8 @@ title: Software for editing manuscripts
 ---
 
 
-## Basics
 
-### Version control
+## Version control
 
 Since we manage all our work using `git` for version control,  all members of your team should:
 
@@ -16,20 +15,36 @@ Since we manage all our work using `git` for version control,  all members of yo
     - Windows users: use `gitbash` (installed with Windows versions of `git`)
     - Linux users: any of your favorite terminals
 
-### Validating XML editor
+## Text editor
 
-An excellent option is the [Atom editor](https://atom.io/).  After you install Atom:
+We edit several types of documents:  tables of data in delimited text files, diplomatic editions marked up in XML, scripts in the Scala language, and texts, slide shows and web pages composed in Markdown.  The [Atom editor](https://atom.io/) provides excellent support for all of these when configured with appropriate plugins.
+
+Download and install atom from <https://atom.io/>. If on OS X, open atom and choose from the Atom menu, "Install Shell Commands".  (This step should not be necessary on Windows or Linux operating systems.)
+
+
+### Configuring Atom for scholarly work on manuscripts
+
+
+Installing atom should have installed the command-line atom package manager `apm`.   Copy and paste the following commands into a bash shell to install a suite of packages:
+
+    apm install intentions
+    apm install busy-signal
+    apm install linter
+    apm install linter-ui-default
+    apm install linter-autocomplete-jing
+    apm install atom-xsltransform
+    apm install tablr
+    apm install xml-formatter
+
+
+Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files.  If you have a 
+
+
+  (Your browser may rename it)
+
+p atom-tablr-conf.cson $HOME/.atom/config.cson
+
+Finally,
 
 1. add the [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing) plugin
 2. install [this package](https://github.com/neelsmith/atomic-tei) for automatic validation of documents following the Text Encoding Initiative (TEI) schema
-
-
-## A virtual machine for editors
-
-Many useful tools for work on MID projects are pre-installed in [this virtual machine](https://github.com/neelsmith/dhvm).  To install it on your computer, you'll need the following software:
-
-
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [Vagrant](https://www.vagrantup.com/)
-
-See the MID youtube playlist for [tutorials on installing and using a virtual machine](https://www.youtube.com/playlist?list=PLJTxcGcJBiz5H-BhBkDFaebI9-R9RSkIN).

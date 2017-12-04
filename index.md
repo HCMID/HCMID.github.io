@@ -3,11 +3,11 @@ layout: home
 title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
-
-
 ## Regular meetings
 
 Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
+
+
 
 
 ## New projects

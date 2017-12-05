@@ -1,5 +1,5 @@
 ---
-title: "Manucripts hackathon"
+title: "Manuscripts hackathon"
 layout: post
 ---
 

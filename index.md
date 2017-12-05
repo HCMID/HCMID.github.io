@@ -3,6 +3,12 @@ layout: home
 title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
+
+## Special events
+
+Save the date!  **February 24, 2018**:  one-day [manuscript hackathon for secondary school students and teachers](https://hcmid.github.io/ms-hackathon-2018/)!
+
+
 ## Regular meetings
 
 Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.

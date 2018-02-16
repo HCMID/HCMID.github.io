@@ -37,12 +37,13 @@ Installing atom should have installed the command-line atom package manager `apm
     apm install xml-formatter
 
 
-Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files.  If you have a 
+Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files. You can do that with the `cp` command in your terminal.
+
+    cp atom-tablr-conf.cson $HOME/.atom/config.cson
 
 
-  (Your browser may rename it)
+(Gotcha: if your browser renames your file for you  when you download -- e.g., if it calls it `atom-tablr-conf.txt` -- it, you'll have to use the name it chose instead of `atom-tablr-conf.cson`.)
 
-p atom-tablr-conf.cson $HOME/.atom/config.cson
 
 Finally,
 

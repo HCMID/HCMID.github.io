@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hands-on workshop"
+title: "Hands-on workshop:  Feb. 21, 2018"
 ---
 
 

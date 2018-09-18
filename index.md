@@ -4,9 +4,17 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
 
+
+## Kick off the year with us!
+
+-  **Open House**:  Thursday, Sept. 20, 3:30, Levis Browsing Room (basement of Dinand Library).  Brief introduction to the Club, refreshments, meet returning club members.
+-  **Hands-on workshop for newcomers**:  Friday, Sept. 21, 3:00-5:00, Levis Browsing Room (basement of Dinand Libary).
+
+
 ## Special events
 
-Save the date!  **February 24, 2018**:  one-day [manuscript hackathon for secondary school students and teachers](https://hcmid.github.io/ms-hackathon-2018/)!
+
+-  "A multidisciplinary look at classification."  **Thurs., Nov. 15, 3:30-4:30** (room TBA).  MID is co-sponsoring with the Classics Department a round table on "Classification," with participating faculty from Biology, Music and Classics.  Stay tuned for more details.
 
 
 ## Regular meetings
@@ -16,17 +24,13 @@ Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floo
 
 
 
-## New projects
-
--  The Homer Multitext project: the "twin manuscripts" (Venice, and Escorial monastery, Spain).  ([Github repository](https://github.com/hmteditors/twins))
-
-## Ongoing projects (AY 2017-18) ##
+## Ongoing projects (AY 2018-19) ##
 
 
-Ongoing projects:
+Returning projects:
 
 
--   The Homer Multitext project:  the Venetus A manuscript.
+-   The Homer Multitext project:   work on three new manuscripts, while revising our first edition of the Venetus A manuscript.
 -   Latin liturgical manuscripts with chant annotated with neumes.  ([Github repository](https://github.com/HCMID/chant).)
 -   Pliny the Elder, *Natural History*: the Bamberg manuscript.  ([Github repository](https://github.com/HCMID/plinius).)
 
@@ -43,10 +47,11 @@ Ongoing projects:
 -   [conference papers,  publications, and funded research](hof) from members of HC MID Club
 -   [map HC MID outside of Worcester](where)
 
-## Special events
+## Other special events
 
 
-We occasionally host [presentations from others](hosted), and participate in the program of Digital Classicist New England.
+- In February, 2018, we hosted a [manuscripts hackathon](https://hcmid.github.io/ms-hackathon-2018/)!
+- We occasionally host [presentations from others](hosted), and participate in the program of Digital Classicist New England.
 
 
 ## Mission Statement

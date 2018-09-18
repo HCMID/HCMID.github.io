@@ -1,13 +1,14 @@
 ---
-layout: home
-title: "Hands-on workshop: Fri., Sept. 21, 2018"
+layout: page
+title: "Hands-on workshop"
 ---
+
 
 ## Overview
 
-From 3:00-5:00 in Levis Browsing Room (basement of Dinand Library), we'll walk you through the whole process of editing a manuscript.
+From 3:00-5:00 in Levis Browsing Room (basement of Dinand Library), we'll walk you through the full process of editing a manuscript.  Everyone is welcome:  there are no prerequisites of any kind.
 
-Options will include:
+Projects you can choose to work on include:
 
 -  the original parchment text of the Declaration of Independence, vs. the most frequently seen facsimile (both in English)
 -  a ninth-century Latin manuscript natural and allegorial descriptions of a variety of animals

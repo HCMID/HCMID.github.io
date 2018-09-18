@@ -3,6 +3,18 @@ layout: page
 title: Technical resources
 ---
 
+## Software for editing manuscripts
+
+Install all the [software you need to work on MID projects](software) on your personal machine.
+
+
+## HC MID youtube playlist
+
+Ten-minute "how-to" videos:
+
+- [Get started with `bash`](https://www.youtube.com/watch?v=lSfNQIeb0uo&feature=youtu.be)
+- [Regular work flow with `git`](https://www.youtube.com/watch?v=RQXE8E0U9a8&feature=youtu.be)
+
 
 ## HC MID project conventions
 
@@ -16,18 +28,10 @@ title: Technical resources
 See this page for more information about the [St. Isidore of Seville research lab](isidore)
 
 
-## HC MID youtube playlist
 
-Ten-minute "how-to" videos:
 
-- [Get started with `bash`](https://www.youtube.com/watch?v=lSfNQIeb0uo&feature=youtu.be)
-- [Regular work flow with `git`](https://www.youtube.com/watch?v=RQXE8E0U9a8&feature=youtu.be)
 
-## Software for editing manuscripts
-
-Install all the [software you need to work on MID projects](software) on your personal machine.
-
-## Tech help ##
+## Tech help: odds and ends
 
 Some of the [technical documentation on the Homer Multitext project's github site][hmtdoc] is relevant for all of HC MID's editing projects.
 

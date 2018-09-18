@@ -7,8 +7,8 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Kick off the year with us!
 
--  **Open House**:  Thursday, Sept. 20, 3:30, Levis Browsing Room (basement of Dinand Library).  Brief introduction to the Club, refreshments, meet returning club members.
--  **Hands-on workshop for newcomers**:  Friday, Sept. 21, 3:00-5:00, Levis Browsing Room (basement of Dinand Libary).
+-  **Open House**:  Thursday, Sept. 20, 3:30, Levis Browsing Room (basement of Dinand Library).  Brief introduction to the Club, refreshments, meet returning club members.  All welcome!
+-  **Hands-on workshop for newcomers**:  Friday, Sept. 21, 3:00-5:00, Levis Browsing Room (basement of Dinand Libary).  [More info](intro-workshop).
 
 
 ## Special events

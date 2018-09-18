@@ -3,23 +3,35 @@ layout: page
 title: Software for editing manuscripts
 ---
 
+## Summary
+
+1.  bash (shell)
+2.  [git](https://github.com) (version control)
+3.  [atom](https://atom.io) (text editor)
+4.  [java sdk](https://www.scala-sbt.org/) and [sbt](https://www.scala-sbt.org/) (running scripts)
 
 
-## Version control
 
-Since we manage all our work using `git` for version control,  all members of your team should:
+## Details:  1. shell
+
+We use the `bash` shell to run commands from a terminal.
+
+- OS X users: `Terminal.app` is already in `/Applications/Utilities`
+- Windows users: use `gitbash` (installed with Windows versions of `git`, below)
+- Linux users: any of your favorite terminals
+
+
+## Details:  2. version control
+
+We manage all our work using `git` for version control.
 
 - install git: <https://github.com/>
-- be able to start up a terminal running a `bash` shell.
-    - OS X users: `Terminal.app` is already in `/Applications/Utilities`
-    - Windows users: use `gitbash` (installed with Windows versions of `git`)
-    - Linux users: any of your favorite terminals
 
-## Text editor
+## Details:  3. text editor
 
 We edit several types of documents:  tables of data in delimited text files, diplomatic editions marked up in XML, scripts in the Scala language, and texts, slide shows and web pages composed in Markdown.  The [Atom editor](https://atom.io/) provides excellent support for all of these when configured with appropriate plugins.
 
-Download and install atom from <https://atom.io/>. If on OS X, open atom and choose from the Atom menu, "Install Shell Commands".  (This step should not be necessary on Windows or Linux operating systems.)
+Download and install atom from <https://atom.io/>. If you are using Mac OS X, open atom and choose from the Atom menu, "Install Shell Commands".  (This step should not be necessary on Windows or Linux operating systems.)
 
 
 ### Configuring Atom for scholarly work on manuscripts
@@ -49,3 +61,12 @@ Finally,
 
 1. add the [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing) plugin
 2. install [this package](https://github.com/neelsmith/atomic-tei) for automatic validation of documents following the Text Encoding Initiative (TEI) schema
+
+
+
+## Details:  4.  Running scripts
+
+To test and validate our editions, we use scripts written in Scala, a language that runs on the Java Virtual Machine.  `sbt` is a build system that will find the appropriate version of Scala and any other code libraries your scripts need, and automatically download them, so if you install Java and sbt, everything you need to run MID scripts is taken care of for you.
+
+-  from [this confusing page](http://www.oracle.com/technetwork/java/javase/downloads/index.html), find the link to the most recent **JDK** (the Java Development Kit), download it, and install it
+- download and install the "simple build tool," `sbt`:  <https://www.scala-sbt.org/>

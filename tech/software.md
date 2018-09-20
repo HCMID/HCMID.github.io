@@ -45,8 +45,10 @@ Installing atom should have installed the command-line atom package manager `apm
     apm install linter-ui-default
     apm install linter-autocomplete-jing
     apm install atom-xsltransform
-    apm install tablr
     apm install xml-formatter
+    apm install https://github.com/mfripp/atom-tablr.git
+    apm install rainbow-csv
+
 
 
 Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files. You can do that with the `cp` command in your terminal.

@@ -8,7 +8,7 @@ title: Software for editing manuscripts
 1.  bash (shell)
 2.  [git](https://github.com) (version control)
 3.  [atom](https://atom.io) (text editor)
-4.  [java sdk](https://www.scala-sbt.org/) and [sbt](https://www.scala-sbt.org/) (running scripts)
+4.  [java sdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [sbt](https://www.scala-sbt.org/) (running scripts)
 
 
 
@@ -25,7 +25,7 @@ We use the `bash` shell to run commands from a terminal.
 
 We manage all our work using `git` for version control.
 
-- install git: <https://github.com/>
+- install git: <https://git-scm.com/>
 
 ## Details:  3. text editor
 
@@ -37,7 +37,7 @@ Download and install atom from <https://atom.io/>. If you are using Mac OS X, op
 ### Configuring Atom for scholarly work on manuscripts
 
 
-Installing atom should have installed the command-line atom package manager `apm`.   Copy and paste the following commands into a bash shell to install a suite of packages:
+Installing atom should have installed the command-line atom package manager `apm`.   Copy and pasthe the following commands into a bash shell to install a suite of packages:
 
     apm install intentions
     apm install busy-signal

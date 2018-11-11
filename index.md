@@ -5,16 +5,16 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 
 
-## Kick off the year with us!
 
--  **Open House**:  Thursday, Sept. 20, 3:30, Levis Browsing Room (basement of Dinand Library).  Brief introduction to the Club, refreshments, meet returning club members.  All welcome!
--  **Hands-on workshop for newcomers**:  Friday, Sept. 21, 3:00-5:00, Levis Browsing Room (basement of Dinand Libary).  [More info](intro-workshop).
 
 
 ## Special events
 
 
--  "A multidisciplinary look at classification."  **Thurs., Nov. 15, 3:30-4:30** (room TBA).  MID is co-sponsoring with the Classics Department a round table on "Classification," with participating faculty from Biology, Music and Classics.  Stay tuned for more details.
+-  "A multidisciplinary look at classification."  **Thurs., Nov. 15, 3:30-4:30**, Hogan B/C (fourth floor)).  MID is co-sponsoring with the Classics Department a round table on "Classification," with participating faculty from Biology, Music and Classics.
+-  We're hosting another hackathon!  [More info beginning to appear here](ms-hackathon-2019).
+
+
 
 
 ## Regular meetings

@@ -12,12 +12,11 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 
 -  "A multidisciplinary look at classification."  **Thurs., Nov. 15, 3:30-4:30**, Hogan B/C (fourth floor).  MID is co-sponsoring with the Classics Department a round table on "Classification," with participating faculty from Biology, Music and Classics.
--  We're hosting another hackathon!  [More info beginning to appear here](ms-hackathon-2019).
-
-
-<a href="imgs/Categorize.jpg">
+ <a href="imgs/Categorize.jpg">
 <img src="imgs/Categorize.jpg" width="400"/>
 </a>
+-  We're hosting another hackathon!  [More info beginning to appear here](ms-hackathon-2019).
+
 
 
 ## Regular meetings

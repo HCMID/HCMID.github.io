@@ -4,30 +4,24 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
 
+# Coming soon!
 
-
-
-
-## Special events
-
--  We're hosting another hackathon!  [Information and link to on-line registration now available](ms-hackathon-2019).
-
-
-
-
-
+- Announcement of fall Open House will appear here soon
+- Any Holy Cross student welcome -- no background requirements
+- Many returning projects in Latin and Greek, or start your own team
 
 ## Regular meetings
 
-Regular meeting times during the academic year:  Fridays, 2:00-5:00, fourth floor of Fenwick Hall.
+Regular meeting times resume in September.  Check here for details soon!
+
+During the academic year, our teams gather on Fridays, 2:00-5:00, in classrooms and lab space up and down the fourth floor of Fenwick Hall.
 
 
 
 
-## Ongoing projects (AY 2018-19) ##
+## Some ongoing projects (AY 2019-2020)
 
 
-Returning projects:
 
 
 -   The Homer Multitext project:   work on three new manuscripts, while revising our first edition of the Venetus A manuscript.

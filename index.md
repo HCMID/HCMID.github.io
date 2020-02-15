@@ -4,11 +4,9 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
 
-# Coming soon!
+## We're hacking again
 
-- Announcement of fall Open House will appear here soon
-- Any Holy Cross student welcome -- no background requirements
-- Many returning projects in Latin and Greek, or start your own team
+[Manuscripts Hackathon 2020](https://github.io/hcmid/ms-hackathon-2020/):  Feb. 15, 2020.
 
 ## Regular meetings
 

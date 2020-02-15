@@ -10,8 +10,6 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Regular meetings
 
-Regular meeting times resume in September.  Check here for details soon!
-
 During the academic year, our teams gather on Fridays, 2:00-5:00, in classrooms and lab space up and down the fourth floor of Fenwick Hall.
 
 

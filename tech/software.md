@@ -5,7 +5,7 @@ title: Software for editing manuscripts
 
 ## Summary
 
-1.  bash (shell)
+1.  a terminal (such as the bash shell) to run commands
 2.  [git](https://github.com) (version control)
 3.  [atom](https://atom.io) (text editor)
 4.  [java sdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [sbt](https://www.scala-sbt.org/) (running scripts)

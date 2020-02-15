@@ -1,0 +1,10 @@
+
+Start a server locally:
+
+    jekyll serve --watch
+
+The server will run by default at `http://127.0.0.1:4000/`.
+
+
+Build and upload files to github:
+

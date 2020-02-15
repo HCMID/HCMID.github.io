@@ -4,7 +4,7 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
 
-## We're hacking again
+## We're hacking again!
 
 [Manuscripts Hackathon 2020](https://github.io/hcmid/ms-hackathon-2020/):  Feb. 15, 2020.
 

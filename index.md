@@ -3,21 +3,29 @@ layout: home
 title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ---
 
-## We're still here
+## Distance-hacking manuscripts with HC MID
 
-Holy Cross has cancelled in-person classes, and will enter a "distance-learning" phase the week of Mar. 23-27.
+We're set to get started!
 
-When Holy Cross courses are in session, HC MID is in session, so we will start figuring how to implement "distance-hacking" on manuscripts.
+## Focus for S20
 
+We will integrate work on Burgerbibliothek 88 (Germanicus' *Aratea*) from our 2019 and 2020 manuscript hackathons in [this github repository](https://github.com/hcmid/germanicus).  We plan to validate our work to current MID standards including automated morphological parsing with manual disambiguation of the results.
+
+
+
+## Zoom meetings
+
+On Fridays, from 2:00-6:00 (?) eastern time, we will use Zoom to meet at [this Zoom meeting](https://holycross.zoom.us/j/583824838) (meeting ID: 583 824 838).
+
+You can add our meetings to your calendar by downloading and importing [this iCalendar (`.ics`) file](https://holycross.zoom.us/meeting/uJwuf-uspjgiharDd8E_0AW6Q5hzGOtyHg/ics?icsToken=98tyKuygrTMoHtyWuFz9RbMvW5n-bvHmi3lPuIdZxDraUwFkNDKjPvhlHaZmON-B)
 
 
 ## GroupMe
 
 Stay in touch with [this GroupMe](https://groupme.com/join_group/58665545/Qt7TqJWB)
 
-## Google Meet
 
-You can use [this link](https://meet.google.com/vpf-uvow-nim) to join class Google Meets from a `holycross.edu` ID.
+
 
 
 ## Other ways to keep up with HC MID

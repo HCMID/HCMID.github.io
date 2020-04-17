@@ -9,6 +9,6 @@ The Holy Cross Manuscripts, Inscriptions and Documents Club is hosting a present
 
 
 - "Manuscript Hackathon, 2020," Stacey Kaliabakos '23, Ryan Wynn '23
-- "Preparing a digital publication of Germanicus' *Aratea* (Bern Burgerbibliothek 88)," James Garry '21, Anne-Catherine Schaaf '22, Zachary Tympani, '23
+- "Preparing a digital publication of Germanicus' *Aratea* (Bern Burgerbibliothek 88)," James Garry '21, Rose Kaczmarek '23, Stephen Pittman '23, Anne-Catherine Schaaf '22, Zachary Tympani, '23
 
 Links will go live on Wednesday, April, 22.

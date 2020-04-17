@@ -5,11 +5,11 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Distance-hacking manuscripts with HC MID
 
-We're set to get started!
+
 
 ## Focus for S20
 
-We will integrate work on Burgerbibliothek 88 (Germanicus' *Aratea*) from our 2019 and 2020 manuscript hackathons in [this github repository](https://github.com/hcmid/germanicus).  We plan to validate our work to current MID standards including automated morphological parsing with manual disambiguation of the results.
+We have integrated work on Burgerbibliothek 88 (Germanicus' *Aratea*) from our 2019 and 2020 manuscript hackathons in [this github repository](https://github.com/hcmid/germanicus).  We are currently completing editing of the text and scholia, and are validating our work to current MID standards.  We plan to add automated morphological parsing with manual disambiguation of the results.
 
 
 

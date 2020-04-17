@@ -15,7 +15,7 @@ We will integrate work on Burgerbibliothek 88 (Germanicus' *Aratea*) from our 20
 
 ## Zoom meetings
 
-On Fridays, from 2:00-6:00 (?) eastern time, we will use Zoom to meet at [this Zoom meeting](https://holycross.zoom.us/j/583824838) (meeting ID: 583 824 838).
+On Fridays, from 2:00-6:00 (?) eastern time, we will use Zoom to meet at [this Zoom meeting](https://holycross.zoom.us/j/583824838) (meeting ID: `583 824 838`).
 
 You can add our meetings to your calendar by downloading and importing [this iCalendar (`.ics`) file](https://holycross.zoom.us/meeting/uJwuf-uspjgiharDd8E_0AW6Q5hzGOtyHg/ics?icsToken=98tyKuygrTMoHtyWuFz9RbMvW5n-bvHmi3lPuIdZxDraUwFkNDKjPvhlHaZmON-B)
 

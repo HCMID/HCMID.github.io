@@ -1,10 +1,10 @@
 ---
-title: HCMID Hackathon 2020
+title: Manuscripts Hackathon 2020
 layout: page
 ---
 
+Stacey Kaliabakos '23, Ryan Wynn '23.  (Faculty advisor: Neel Smith)
 
-Written by Stacey Kaliabakos '23 and Ryan Wynn '23
 
 - **What is Hackathon?**
    - Hackathon is an annual event where several high schools and middle school send groups of students to the College to work on transcribing Latin manuscripts into digital references.

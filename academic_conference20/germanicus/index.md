@@ -8,13 +8,15 @@ title: Preparing a digital edition of Germanicus
 
 ### Work until March 13
 
+We planned to build on the work of HC MID's two previous manuscript hackathons to complete a digital diplomatic edition of Germanicus' *Aratea* in Bern, Burgerbiliothek 88.  (For more about the 2020 manuscripts hackthon, [see this overview](https://hcmid.github.io/academic_conference20/hackathon/) from Stacey Kaliabakos and Ryan Wynn.)  On this page, we summarize our work, this spring, how we adapted once all of us left campus, and where we hope to take the project beyond this semester.
 
 
-### Why a *diplomatic* edition is interesting
 
-- The manuscript differs, in both content and ordering of lines, from other editions of the *Aratea*.
+### Why a *diplomatic* edition of Bern 88 is interesting
+
+- The manuscript differs, in its selection of content and its ordering of lines, from other manuscripts of the *Aratea*.
 - The illustrations, and their relationship to the text, show a level of comprehension and engagement with the text on the part of the illustrator.
-- The second pass offers a window into the editorial process, and the textual variation of the manuscript edition.
+- A second reader annotated the manuscript, and offers a window into both the use of the manuscript, and the textual variation of the manuscript tradition.
 
 To see on-going work defining editorial policies for the  project, see the [project wiki](https://github.com/HCMID/germanicus/wiki/Policies).
 

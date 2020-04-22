@@ -3,9 +3,12 @@ layout: home
 title: "Academic Conference, 2020"
 ---
 
-In Spring, 2020, the annual Holy Cross Academic Conference will be a virtual event.
 
-Instead of a one-time presentation, the Holy Cross Manuscripts, Inscriptions and Documents Club is hosting a web pages about our work here.  
+
+The projects presented here are part of the ongoing research and outreach by the volunteer members of the Holy Cross Manuscripts, Inscriptions and Documents Club.  You can follow the evolving output of our research on the Bern manuscript of Aratus and our collaboration with secondary school teams throughout New England at [this publicly available github repository](https://github.com/hcmid/germanicus).
+
+
+In Spring, 2020, the annual Holy Cross Academic Conference will be a virtual event.  Instead of a one-time presentation, we are hosting web pages about our work here that we will also update as our work continues. 
 
 
 - "[Manuscript Hackathon, 2020](hackathon/)," Stacey Kaliabakos '23, Ryan Wynn '23.  (Faculty advisor: Neel Smith)

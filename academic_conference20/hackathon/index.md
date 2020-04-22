@@ -35,7 +35,14 @@ We collected the work of each team at the end of the day, and added it the git r
 ### Struggles and problem solving
 
 
-Some groups ran into issues, including getting used to the author's hand in such a short amount of time, familiarizing themselves with the software, and learning the exceptions and rare phenomena in terms of terminology.  For example, in many Latin manuscripts, authors tend to abbreviate the diphthong "ae" by writing a small hooked ligature under the "e" in order to minimize the amount of space used on each line.  Students who were not familiar with reading Latin manuscripts could not have possibly been aware of this; therefore, it was the responsibility of the HCMID students and alumni to inform them of this abbreviation so that they could be aware of it in the future.
+Some groups ran into issues, including getting used to the author's hand in such a short amount of time, familiarizing themselves with the software, and learning the exceptions and rare phenomena in terms of terminology.  For example, in many Latin manuscripts, authors tend to abbreviate the diphthong "ae" by writing a small hooked ligature under the "e" in order to minimize the amount of space used on each line.
+
+For example, on folio 1 verso, the word *quae* appears like this:
+
+![quae](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern88imgs/v1/bern88_001v.tif&RGN=0.3454,0.5358,0.02854,0.01174&wID=200&CVT=JPEG)
+
+
+ Students who were not familiar with reading Latin manuscripts could not have possibly been aware of this; therefore, it was the responsibility of the HCMID students and alumni to inform them of this abbreviation so that they could be aware of it in the future.
 
 
 We faced an unexpected obstacle when the WiFi cut out and forced the HCMID supervising students to take out their own laptops to try to solve the problem. We learned how to adapt our initial plan to accommodate this problem, allowing the visiting students to use computers with software already downloaded until the WiFi was fixed. Despite this setback, we were ultimately successful in spite of it, transcribing a significant portion of the manuscript while also having fun.

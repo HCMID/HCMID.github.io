@@ -13,15 +13,20 @@ The MID Hackathon is a now annual day-long event where several high schools and 
 In  2019 and again in 2020, we worked on a Bern Burgerbiliothek 88, a manuscript of Germanicus' *Aratea*.  The *Aratea* is a translation of the *Phaenomena* by the Greek poet Aratus describing the constellations.  The Bern manuscript contains illustrations of the  constellations as well.
 
 
-- **Structure and Set-up of Hackathon**
-   - Students are split up into different teams (by school) and are each assigned a section of the manuscript.
-   - Along with each team, there are two HCMID Holy Cross students or alumni to assist with any challenges or issues the high schoolers may face.
-   - It is mostly the work of the younger students to work on the manuscript; however, the supervisors are there and willing to guide them through the language of the manuscript and to help download all the necessary software for the process.
-- **Process of Hackathon**
-   - Professor Neel Smith gave a brief introduction to students explaining how to read the manuscript and to record various terminology (names of people, corrections, abbreviations, etc.)
-   - Students were shown what software to download (Docker, Atom.io, GitBash) and how to go about doing. HCMID students guided them on how to download and use the various systems.
-   - DSE was the process of taking digital images of the manuscript and corresponding it with the canonical line numbers of text. This was used to display the Latin manuscript text alongside the digitally edited text in the Validation process.
-  - Students were then guided in reading and transcribing the manuscript into the ATOM software, taking turns doing so to gain familiarity with the terminal along with the language and style of the manuscript.
+### Structure and organization of the hackathon
+
+Students are split up into different teams (by school) and are each assigned a section of the manuscript.   Two HCMID Holy Cross students or alumni are matched with each team to assist with any challenges or issues the high schoolers and their teachers may face.  It is mostly the work of the younger students to work on the manuscript; however, the supervisors are there and willing to guide them through the language of the manuscript and to help download all the necessary software for the process.
+
+
+### Process of Hackathon
+
+MID's faculty advisor, Professor Neel Smith, gave a brief introduction to students explaining how to read the manuscript and to record its contents, including markup identifying names of people, corrections, abbreviations, etc.  We had to improvise when the internet went down at the beginning of the day, but were soon able to help students install the software we use ([Atom](https://atom.io/) for editing, a bash shell, and [Docker](https://www.docker.com/) for running customized validation software)
+
+
+The first step in editing process is to index passages of texts to images. This requires understanding how to cite both the text and part of an image using canonical citation with URN notation, and compiling the results in a table.
+
+Students were then guided in reading and transcribing the manuscript using XML following the guidelines of the [Text Encoding Initiative](https://tei-c.org/).  Students took turns working in the editor to gain familiarity with the terminal along with the language and style of the manuscript.
+
 - **Validation**
    - The validation process helps us to know that there are no errors in the transcribed manuscript by comparing it with the digital image collected from the DSE.
    - Pushing the work of the students through the GitBash terminal to the GitHub project website ensures that it is saved. This constitutes a collection of all the students' work.

@@ -6,6 +6,10 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 ## Distance-hacking manuscripts with HC MID
 
 
+## Academic Conference, 2020
+
+For this year's academic conference, we are presenting some of our work in [these web pages](academic_conference20/).
+
 
 ## Focus for S20
 

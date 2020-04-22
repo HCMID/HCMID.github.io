@@ -37,8 +37,11 @@ This illustration  on folio 11 verso serves both as a diagram of the relative po
 
 ### Image, Text, and Scholia As A Unit
 
+The ordering of different sections of the text in Bern 88 differs substantially from other manuscripts. Sections on each constellation have been moved around as though they function as individual units. The manuscript's layout reflects this grouping by positioning as a distinct unit the text, scholion, and illustration for each constellation.  Here, on folio 2 recto, we see, from left to right, the illustration, description and a scholion on the constellation Corona.
+
 ![folio 2 recto](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern88imgs/v1/bern88_002r.tif&RGN=0.04273,0.5668,0.8731,0.2853&wID=5000&CVT=JPEG)
-Caption: The text of the manuscript differs substantially in terms of ordering from other versions of the poem. Sections on each constellation have been moved around as though they function as individual units. The manuscript's outline reflects this grouping by positioning the text, scholion, and illustration for each constellation as a unit separate from the others.
+
+
 
 ### The Relationship Between Image and Scholia
 

@@ -10,7 +10,7 @@ James Garry '21, Rose Kaczmarek '23, Stephen Pittman '23, Anne-Catherine Schaaf 
 
 ### Work until March 13
 
-We planned to build on the work of HC MID's two previous manuscript hackathons to complete a digital diplomatic edition of Germanicus' *Aratea* in Bern, Burgerbiliothek 88.  (For more about the 2020 manuscripts hackthon, [see this overview](https://hcmid.github.io/academic_conference20/hackathon/) from Stacey Kaliabakos and Ryan Wynn.)  On this page, we summarize our work, this spring, how we adapted once all of us left campus, and where we hope to take the project beyond this semester.
+We planned to build on the work of HC MID's two previous manuscript hackathons to complete a digital diplomatic edition of Germanicus' *Aratea* in Bern, Burgerbiliothek 88.  (For more about the 2020 manuscripts hackthon, [see this overview](https://hcmid.github.io/academic_conference20/hackathon/) from Stacey Kaliabakos and Ryan Wynn.)  On this page, we summarize our work this spring, how we adapted once all of us left campus, and where we hope to take the project beyond this semester.
 
 
 
@@ -24,17 +24,16 @@ To see on-going work defining editorial policies for the  project, see the [proj
 
 
 
-### Work after March 13
 
-- ways to continue team editing
-- future plans
+## Design and organization of the manuscript
 
-## Illustrations
+### A visual "table of contents"
 
-### Table of Contents
+This illustration  on folio 11 verso serves both as a diagram of the relative positions of the constellations and as a guide to the text. The concentric green circles represent varying degrees of latitude on the celestial sphere. The orange ring shows the proceeding order of the zodiac.
 
-![folio 11 verso](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern88imgs/v1/bern88_011v.tif&RGN=0.1950,0.1453,0.8012,0.6064&wID=5000&CVT=JPEG)
-Caption: The "table of contents" of this manuscript also serves as a scientific diagram of the relative positions of the constellations as well as a guide to the text. The concentric green circles roughly represent varying degrees of latitude with the inner circles outlining the northern hemisphere. The orange ring shows the proceeding order of the zodiac.
+![folio 11 verso](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/ecod/bern88imgs/v1/bern88_011v.tif&RGN=0.1950,0.1453,0.8012,0.6064&wID=500&CVT=JPEG)
+
+
 
 ### Image, Text, and Scholia As A Unit
 
@@ -59,3 +58,9 @@ Caption: A second scribal pass offers textual variations that reflect different 
 
 -Validation allows us to maintain consistent editorial standards and ensures that the text is encoded in a manner that is conducive to digital analysis.
 -Verification allows us to weed out errors in transcription and association, and checks our documentation of the text.
+
+
+### Work after March 13
+
+- ways to continue team editing
+- future plans

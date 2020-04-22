@@ -41,5 +41,6 @@ Some groups ran into issues, including getting used to the author's hand in such
 We faced an unexpected obstacle when the WiFi cut out and forced the HCMID supervising students to take out their own laptops to try to solve the problem. We learned how to adapt our initial plan to accommodate this problem, allowing the visiting students to use computers with software already downloaded until the WiFi was fixed. Despite this setback, we were ultimately successful in spite of it, transcribing a significant portion of the manuscript while also having fun.
 
 
-- **Feeling Accomplished**
-   - Hackathon is a unique experience. It is rare for such young students to have the opportunity to read and understand an authentic ancient manuscript-- an opportunity most students will not get until coming to college. Additionally, they were able to utilize the same skills that professionals use consistently in their own fields. The students left feeling accomplished in their work and their progress, excited to have worked on this project and to eventually see their work published.
+### Feeling Accomplished
+
+Hackathon is a unique experience. It is rare for such young students to have the opportunity to read and understand an authentic ancient manuscript-- an opportunity most students will not get until coming to college. Additionally, they were able to utilize the same skills that professionals use consistently in their own fields. The students left feeling accomplished in their work and their progress, excited to have worked on this project and to eventually see their work published.

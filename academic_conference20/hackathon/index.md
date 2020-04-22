@@ -10,7 +10,7 @@ Stacey Kaliabakos '23, Ryan Wynn '23.  (Faculty advisor: Neel Smith)
 
 The MID Hackathon is a now annual day-long event where several high schools and middle school send groups of students and teachers to the College to learn how to transcript Latin manuscripts and create digital editions.  The first Hackathon took place in 2018 and was organized by Hannah Nguyen '19, with the support of the J.D. Power Center. This year's Hackathon was organized by Thomas Posillico '20.  In  2019 and 2020, several alumni returned to help mentor the teams of school students.  This is a unique opportunity for us to bring HCMID alumni and current students together.
 
-In  2019 and again in 2020, we worked on a Bern Burgerbiliothek 88, a manuscript of Germanicus' *Aratea*.  The *Aratea* is a translation of the *Phaenomena* by the Greek poet Aratus describing the constellations.  The Bern manuscript contains illustrations of the  constellations as well.
+In  2019 and again in 2020, we worked on a Bern Burgerbiliothek 88, a manuscript of Germanicus' *Aratea*.  The *Aratea* is a translation of the *Phaenomena* by the Greek poet Aratus describing the constellations.  The Bern manuscript contains illustrations of the  constellations as well.  
 
 
 ### Structure and organization of the hackathon
@@ -44,3 +44,7 @@ We faced an unexpected obstacle when the WiFi cut out and forced the HCMID super
 ### Feeling Accomplished
 
 Hackathon is a unique experience. It is rare for such young students to have the opportunity to read and understand an authentic ancient manuscript-- an opportunity most students will not get until coming to college. Additionally, they were able to utilize the same skills that professionals use consistently in their own fields. The students left feeling accomplished in their work and their progress, excited to have worked on this project and to eventually see their work published.
+
+---
+
+> For more information about MID work to complete a publishable edition of this text, see the presentation for the Academic Symposium, "[Preparing a digital edition of Germanicus](https://hcmid.github.io/academic_conference20/germanicus/)."

@@ -3,7 +3,9 @@ layout: page
 title: Preparing a digital edition of Germanicus
 ---
 
-## Preparing a digital edition of Germanicus' *Aratea*
+
+James Garry '21, Rose Kaczmarek '23, Stephen Pittman '23, Anne-Catherine Schaaf '22, Zachary Tympani, '23. (Faculty advisor: Neel Smith)
+
 
 
 ### Work until March 13

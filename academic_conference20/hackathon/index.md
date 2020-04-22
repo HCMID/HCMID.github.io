@@ -6,12 +6,13 @@ layout: page
 Stacey Kaliabakos '23, Ryan Wynn '23.  (Faculty advisor: Neel Smith)
 
 
-- **What is Hackathon?**
-   - Hackathon is an annual event where several high schools and middle school send groups of students to the College to work on transcribing Latin manuscripts into digital references.
-       - The first Hackathon took place in 2018 and was organized by Hannah Nguyen '19. This year's Hackathon was organized by Thomas Posillico '20.
-       - Additionally, Hackathon plays a unique role in bringing HCMID alumni and current students together.
-   - In 2020 and 2019, we worked on Germanicus' "Aratea" and hope to publish our work on it soon.
-   - The "Aratea" is a collection of poems describing various constellations and contains artwork that corresponds with the poems as well.
+### What is a "manuscript hackathon"?
+
+The MID Hackathon is a now annual day-long event where several high schools and middle school send groups of students and teachers to the College to learn how to transcript Latin manuscripts and create digital editions.  The first Hackathon took place in 2018 and was organized by Hannah Nguyen '19, with the support of the J.D. Power Center. This year's Hackathon was organized by Thomas Posillico '20.  In  2019 and 2020, several alumni returned to help mentor the teams of school students.  This is a unique opportunity for us to bring HCMID alumni and current students together.
+
+In  2019 and again in 2020, we worked on a Bern Burgerbiliothek 88, a manuscript of Germanicus' *Aratea*.  The *Aratea* is a translation of the *Phaenomena* by the Greek poet Aratus describing the constellations.  The Bern manuscript contains illustrations of the  constellations as well.
+
+
 - **Structure and Set-up of Hackathon**
    - Students are split up into different teams (by school) and are each assigned a section of the manuscript.
    - Along with each team, there are two HCMID Holy Cross students or alumni to assist with any challenges or issues the high schoolers may face.

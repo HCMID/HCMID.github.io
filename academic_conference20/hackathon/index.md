@@ -20,19 +20,26 @@ Students are split up into different teams (by school) and are each assigned a s
 
 ### Process of Hackathon
 
-MID's faculty advisor, Professor Neel Smith, gave a brief introduction to students explaining how to read the manuscript and to record its contents, including markup identifying names of people, corrections, abbreviations, etc.  We had to improvise when the internet went down at the beginning of the day, but were soon able to help students install the software we use ([Atom](https://atom.io/) for editing, a bash shell, and [Docker](https://www.docker.com/) for running customized validation software)
+MID's faculty advisor, Professor Neel Smith, gave a brief introduction to students explaining how to read the manuscript and to record its contents, including markup identifying names of people, corrections, abbreviations, etc.  HCMID students and alumni helped everyone install the software we use ([Atom](https://atom.io/) for editing, a bash shell, and [Docker](https://www.docker.com/) for running customized validation software)
 
 
 The first step in editing process is to index passages of texts to images. This requires understanding how to cite both the text and part of an image using canonical citation with URN notation, and compiling the results in a table.
 
 Students were then guided in reading and transcribing the manuscript using XML following the guidelines of the [Text Encoding Initiative](https://tei-c.org/).  Students took turns working in the editor to gain familiarity with the terminal along with the language and style of the manuscript.
 
-- **Validation**
-   - The validation process helps us to know that there are no errors in the transcribed manuscript by comparing it with the digital image collected from the DSE.
-   - Pushing the work of the students through the GitBash terminal to the GitHub project website ensures that it is saved. This constitutes a collection of all the students' work.
-- **Struggles and Problem-Solving**
-   - Some groups ran into issues, including getting used to the author's hand in such a short amount of time, familiarizing themselves with the software, and learning the exceptions and rare phenomena in terms of terminology.
-      - For example, in many Latin manuscripts, authors tend to abbreviate the diphthong "ae" by writing a small hooked ligature under the "e" in order to minimize the amount of space used on each line. Students who were not familiar with reading Latin manuscripts could not have possibly been aware of this; therefore, it was the responsibility of the HCMID students and alumni to inform them of this abbreviation so that they could be aware of it in the future.
-   - We faced an unexpected obstacle when the WiFi cut out and forced the HCMID supervising students to take out their own laptops to try to solve the problem. We learned how to adapt our initial plan to accommodate this problem, allowing the visiting students to use computers with software already downloaded until the WiFi was fixed. Despite this setback, we were ultimately successful in spite of it, transcribing a significant portion of the manuscript while also having fun.
+After indexing and editing a passage of text, teams then learned how to run an automated *validation test* that ensure the consistency of our references.  The same test creates visualizations we use to compare the edited text with the corresponding section of the image.  We refer to this computer-assisted evaluation as *verification*.
+
+We collected the work of each team at the end of the day, and added it the git repository where we had previously committed work from the 2019 hackathon.
+
+
+### Struggles and problem solving
+
+
+Some groups ran into issues, including getting used to the author's hand in such a short amount of time, familiarizing themselves with the software, and learning the exceptions and rare phenomena in terms of terminology.  For example, in many Latin manuscripts, authors tend to abbreviate the diphthong "ae" by writing a small hooked ligature under the "e" in order to minimize the amount of space used on each line.  Students who were not familiar with reading Latin manuscripts could not have possibly been aware of this; therefore, it was the responsibility of the HCMID students and alumni to inform them of this abbreviation so that they could be aware of it in the future.
+
+
+We faced an unexpected obstacle when the WiFi cut out and forced the HCMID supervising students to take out their own laptops to try to solve the problem. We learned how to adapt our initial plan to accommodate this problem, allowing the visiting students to use computers with software already downloaded until the WiFi was fixed. Despite this setback, we were ultimately successful in spite of it, transcribing a significant portion of the manuscript while also having fun.
+
+
 - **Feeling Accomplished**
    - Hackathon is a unique experience. It is rare for such young students to have the opportunity to read and understand an authentic ancient manuscript-- an opportunity most students will not get until coming to college. Additionally, they were able to utilize the same skills that professionals use consistently in their own fields. The students left feeling accomplished in their work and their progress, excited to have worked on this project and to eventually see their work published.

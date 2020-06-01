@@ -3,6 +3,14 @@ layout: page
 title: Technical resources
 ---
 
+
+## Distance hacking checklist
+
+
+- a [technical checklist](./editing-tiers/): technical requirements for different roles in collaborative editing
+
+
+
 ## Software for editing manuscripts
 
 Install all the [software you need to work on MID projects](software) on your personal machine.

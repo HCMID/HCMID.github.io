@@ -5,6 +5,8 @@ title: Holy Cross Manuscripts, Inscriptions and Documents Club
 
 ## Distance-hacking manuscripts with HC MID
 
+- a [technical checklist](./tech/editing-tiers/) for different roles in collaborative editing
+
 
 ## Academic Conference, 2020
 
